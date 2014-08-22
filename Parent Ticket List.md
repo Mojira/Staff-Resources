@@ -17,6 +17,7 @@
 - [MC-68403](https://bugs.mojang.com/browse/MC-68403) dying near 524289 x -524288 coordinates makes drops invisible after death
 - [MC-67626](https://bugs.mojang.com/browse/MC-67626) Item frames do not work outside 524289 x -524288 coordinates
 - [MC-27538](https://bugs.mojang.com/browse/MC-27538) Drop stack broken
+- [MC-68642](https://bugs.mojang.com/browse/MC-68642) Alt+V does not make @ / cannot make @
 
 ## Snapshot 14w32d
 
