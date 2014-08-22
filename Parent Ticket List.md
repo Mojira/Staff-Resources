@@ -161,3 +161,9 @@ Snapshot 14w32b
 - [MC-2301](https://bugs.mojang.com/browse/MC-2301) Sprint 1 block gap
 - [MC-35026](https://bugs.mojang.com/browse/MC-35026) Video settings don’t save
 - [MC-68497](https://bugs.mojang.com/browse/MC-68497) Copy / Cut Clears Clipboard With No Selection
+
+## Editing this document
+
+When you want to edit this document on Github, you should follow a few simple steps:
+
+1 ![Example 1](http://i.imgur.com/EsjXwTy.png)
