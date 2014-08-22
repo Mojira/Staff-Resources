@@ -186,7 +186,8 @@ Snapshot 14w32b
 - [MC-35026](https://bugs.mojang.com/browse/MC-35026) Video settings don’t save
 - [MC-68497](https://bugs.mojang.com/browse/MC-68497) Copy / Cut Clears Clipboard With No Selection
 - [MC-679](https://bugs.mojang.com/browse/MC-679) Compass points wrong direction after returning from nether
-
+- [MC-4923](https://bugs.mojang.com/brose/MC-4923) Flint and Steel+Blocks that can't be set on fire
+- 
 ## Editing this document
 
 When you want to edit this document on Github, you should follow a few simple steps:
