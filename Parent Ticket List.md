@@ -13,6 +13,7 @@ Click [here](https://github.com/Mojira/Staff-Resources/blob/master/Parent%20Tick
 - [MC-68754](https://bugs.mojang.com/browse/MC-68754) Exiting Fullscreen Disables Maximize
 - [MC-68797](https://bugs.mojang.com/browse/MC-68797) Sticky Command Key Pasting Copying Cutting All
 - [MC-68809](https://bugs.mojang.com/browse/MC-68809) Held Item Lighting Incorrect In Torch Blocks
+- [MC-68817](https://bugs.mojang.com/browse/MC-68817) @ (arobase, at) key fires up Twitch broadcast
 
 ## Snapshot 14w34x
 
