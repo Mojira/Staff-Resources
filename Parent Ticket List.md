@@ -166,4 +166,6 @@ Snapshot 14w32b
 
 When you want to edit this document on Github, you should follow a few simple steps:
 
-1 ![Example 1](http://i.imgur.com/EsjXwTy.png)
+![Example 1](http://imgur.com/dyrjcVU.png)
+
+![Example 2](http://imgur.com/A7ofR8H.png)
