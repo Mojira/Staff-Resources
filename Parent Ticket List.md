@@ -11,6 +11,7 @@ Click [here](https://github.com/Mojira/Staff-Resources/blob/master/Parent%20Tick
 - [MC-68745](https://bugs.mojang.com/browse/MC-68745) /resourcepacks/ folder is not automatically created when initially starting the game
 - [MC-68748](https://bugs.mojang.com/browse/MC-68748) Crash : fire and Command "Summon SmallFireball"
 - [MC-68754](https://bugs.mojang.com/browse/MC-68754) Exiting Fullscreen Disables Maximize
+- [MC-68797](https://bugs.mojang.com/browse/MC-68797) Sticky Command Key Pasting Copying Cutting All
 
 ## Snapshot 14w34x
 
