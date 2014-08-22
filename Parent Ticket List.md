@@ -18,6 +18,7 @@
 - [MC-67626](https://bugs.mojang.com/browse/MC-67626) Item frames do not work outside 524289 x -524288 coordinates
 - [MC-27538](https://bugs.mojang.com/browse/MC-27538) Drop stack broken
 - [MC-68642](https://bugs.mojang.com/browse/MC-68642) Alt+V does not make @ / cannot make @
+- [MC-68574](https://bugs.mojang.com/browse/MC-68574) Bow is drawn when no arrows in inventory
 
 ## Snapshot 14w32d
 
