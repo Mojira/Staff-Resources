@@ -1,20 +1,28 @@
 ## Snapshot 14w34x
+
 - [ ] MC-68267 Void fog gone
 - [ ] MC-68233 Missing texture skin
 - [ ] MC-68403 dying near 524289 x -524288 coordinates makes drops invisible after death
 - [ ] MC-67626 Item frames do not work outside 524289 x -524288 coordinates
 - [ ] MC-27538 Drop stack broken
+
 ## Snapshot 14w32d
+
 - [ ] MC-66166 New colored wood doors drop oak door when broken
 - [ ] MC-66163 Pick block key on new colored wood gives oak door
 Snapshot 14w32b
+
 - [ ] MC-65884 Fence Recipe Change
 - [ ] MC-65872 No book on enchantment table
+
 ## Snapshot 14w32a
+
 - [ ] MC-65668 Endermen still teleport without AI
 - [ ] MC-65512 Red Sandstone Slab Crash
 - [ ] MC-65533 Shovel and Axe Efficiency Broken
+
 ## Snapshot 14w30x
+
 - [ ] MC-63354 Banners don’t sway in SMP
 - [ ] MC-63007 Render distance only 16
 - [ ] MC-63590 Watching server Crash
@@ -28,20 +36,30 @@ Snapshot 14w32b
 - [ ] MC-63507 Snooper settings crashes game
 - [ ] MC-63093 Slow chunk loading / missing chunks with high view distance
 - [ ] MC-63534 Only one mob head dropped per type from lighting creeper
+
 ## Snapshot 14w27b
+
 - [ ] MC-59996 Falling sand/gravel invisible or solid colored texture
 - [ ] MC-60039 Server logging broken
 - [ ] MC-60151 Redstone repeater tick setting inverted / placed wrong
 - [ ] MC-59946 Trap doors placed on opposite side
+
 ## Snapshot 14w26c
+
 - [ ] MC-59533 Beacons will not consume item or apply effect
+
 ## Snapshot 14w26b
+
 - [ ] MC-58898 Debug world issues
 - [ ] MC-59294 Corrupted world when updating from 14w26a / 14w26b
+
 ## Snapshot 14w25b
+
 - [ ] MC-57818 Furnaces eat stacks of buckets
 - [ ] MC-57822 Cocoa Bean Orientation
+
 ## Snapshot 14w25a
+
 - [ ] MC-56849 Broken OS X (also 1.7.10-pre4)
 - [ ] MC-56862 Guardians swimming on land / lava etc.
 - [ ] MC-56868 Broken map texture
@@ -100,23 +118,32 @@ Snapshot 14w32b
 - [ ] MC-57574 Mipmapping does not work in Inventory
 - [ ] MC-57603 Powered rail icon is powered
 - [ ] MC-56917 Invisible blocks in empty chunks
+
 ## Pre 14w25a 1.8
+
 - [ ] MC-46776 Monster despawn spectator / peaceful spectator
 - [ ] MC-53384 Redstone Dust Orientation
 - [ ] MC-45458 Lag / FPS issues
+
 ## 1.7
 - [ ] MC-36812 Chat opacity broken
 - [ ] MC-53439 Double flowers leave a sunflower, Two high flowers sunflower
 - [ ] MC-45009 Inventory and container empty/world corrupted after downgrading to older version.
 - [ ] MC-1759 Chests and item frame clipping
+
 ## Multiplayer Skins
+
 - [ ] MC-49334 Lan Host cannot see other's skins
 - [ ] MC-52974 Lan host's skin loads for self but not others.
 - [ ] MC-52773 Skin doesn't load for self, loads for others.
 - [ ] MC-55018 Players can see own skin, but not others.
+
 ## Realms
+
 - [ ] MC-57233 Error 6003/4 Upload Limit Reached
+
 ## Earlier Versions / Unknown
+
 - [ ] MC-297 Bad Video Card Drivers			
 - [ ] MC-438 Enderpearls don't work in creative	
 - [ ] MC-545 Sheep invisibility			
