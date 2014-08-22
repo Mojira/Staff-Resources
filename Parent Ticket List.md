@@ -1,3 +1,5 @@
+Click [here](https://github.com/Mojira/Staff-Resources/blob/master/Parent%20Ticket%20List.md#editing-this-document) for editing instructions)
+
 ## 1.8-pre1
 
 - [MC-68718](https://bugs.mojang.com/browse/MC-68718) Redstone dust on torch destroy the torch
