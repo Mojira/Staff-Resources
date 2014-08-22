@@ -1,3 +1,15 @@
+## 1.8-pre1
+
+- [MC-68718](https://bugs.mojang.com/browse/MC-68718) Redstone dust on torch destroy the torch
+- [MC-68720](https://bugs.mojang.com/browse/MC-68720) Server Spams .. Skipping Entity with id WitherSkull & Fireball
+- [MC-68723](https://bugs.mojang.com/browse/MC-68723) Armor not fitting with the new player model
+- [MC-68726](https://bugs.mojang.com/browse/MC-68726) Skin is using wrong model
+- [MC-68732](https://bugs.mojang.com/browse/MC-68732) Starting the game a second time crashes the game on Linux
+- [MC-68740](https://bugs.mojang.com/browse/MC-68740) Cannot Summon Fireball With/Without Direction (Unable To Summon Object)
+- [MC-68745](https://bugs.mojang.com/browse/MC-68745) /ressourcepacks/ folder is not automatically created when initially starting the game
+- [MC-68748](https://bugs.mojang.com/browse/MC-68748) Crash : fire and Command "Summon SmallFireball"
+- [MC-68754](https://bugs.mojang.com/browse/MC-68754) Exiting Fullscreen Disables Maximize
+
 ## Snapshot 14w34x
 
 - [MC-68267](https://bugs.mojang.com/browse/MC-68267) Void fog gone
