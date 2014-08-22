@@ -12,7 +12,7 @@ Click [here](https://github.com/Mojira/Staff-Resources/blob/master/Parent%20Tick
 - [MC-68748](https://bugs.mojang.com/browse/MC-68748) Crash : fire and Command "Summon SmallFireball"
 - [MC-68754](https://bugs.mojang.com/browse/MC-68754) Exiting Fullscreen Disables Maximize
 - [MC-68797](https://bugs.mojang.com/browse/MC-68797) Sticky Command Key Pasting Copying Cutting All
-- [MC-68809](https://bugs.mojang.com/browse/MC-68809) Held Item Lighting Incorrect In Torch Blocks
+- [MC-68809](https://bugs.mojang.com/browse/MC-68809) Held Items Lighting Incorrect In Torch Blocks
 - [MC-68817](https://bugs.mojang.com/browse/MC-68817) @ (arobase, at) key fires up Twitch broadcast
 
 ## Snapshot 14w34x
@@ -151,7 +151,7 @@ Snapshot 14w32b
 
 ## 1.7
 - [MC-36812](https://bugs.mojang.com/browse/MC-36812) Chat opacity broken
-- [MC-53439](https://bugs.mojang.com/browse/MC-53439) Double flowers leave a sunflower, Two high flowers sunflower
+- [MC-53439](https://bugs.mojang.com/browse/MC-53439) Double flowers leave a sunflower / peony for a tick, Two high flowers sunflower peony
 - [MC-45009](https://bugs.mojang.com/browse/MC-45009) Inventory and container empty/world corrupted after downgrading to older version.
 - [MC-1759](https://bugs.mojang.com/browse/MC-1759) Chests and item frame clipping
 
