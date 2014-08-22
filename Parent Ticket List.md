@@ -167,7 +167,9 @@ Snapshot 14w32b
 When you want to edit this document on Github, you should follow a few simple steps:
 
 First, open the document editor
+
 ![Example 1](http://imgur.com/dyrjcVU.png)
 
 Then commit your changes
+
 ![Example 2](http://imgur.com/A7ofR8H.png)
