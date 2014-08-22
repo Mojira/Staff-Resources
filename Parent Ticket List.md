@@ -56,6 +56,10 @@ Snapshot 14w32b
 - [MC-63093](https://bugs.mojang.com/browse/MC-63093) Slow chunk loading / missing chunks with high view distance
 - [MC-63534](https://bugs.mojang.com/browse/MC-63534) Only one mob head dropped per type from lighting creeper
 
+## Snapshot 14w29x
+
+- [MC-62140](https://bugs.mojang.com/browse/MC-62140) 2 block tall flowers generated in previous snapshot removes the 2nd block
+
 ## Snapshot 14w27b
 
 - [MC-59996](https://bugs.mojang.com/browse/MC-59996) Falling sand/gravel invisible or solid colored texture
