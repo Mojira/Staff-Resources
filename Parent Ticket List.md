@@ -65,6 +65,7 @@ Snapshot 14w32b
 ## Snapshot 14w26b
 
 - [MC-58898](https://bugs.mojang.com/browse/MC-58898) Debug world issues
+- [MC-60033](https://bugs.mojang.com/browse/MC-60033) All game modes available in debug mode
 - [MC-59294](https://bugs.mojang.com/browse/MC-59294) Corrupted world when updating from 14w26a / 14w26b
 
 ## Snapshot 14w25b
