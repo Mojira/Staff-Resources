@@ -188,6 +188,7 @@ Snapshot 14w32b
 - [MC-679](https://bugs.mojang.com/browse/MC-679) Compass points wrong direction after returning from nether
 - [MC-4923](https://bugs.mojang.com/browse/MC-4923) Flint and Steel+Blocks that can't be set on fire
 - [MC-57933](https://bugs.mojang.com/browse/MC-57933) Comparator stays on after running (WAI)
+- [MC-4449](https://bugs.mojang.com/browse/MC-4449) Bedrock in repeater (WAI)
 
 ## Editing this document
 
