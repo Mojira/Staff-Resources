@@ -38,7 +38,7 @@ Snapshot 14w32b
 - [MC-63354](https://bugs.mojang.com/browse/MC-63354) Banners don’t sway in SMP
 - [MC-63007](https://bugs.mojang.com/browse/MC-63007) Render distance only 16
 - [MC-63590](https://bugs.mojang.com/browse/MC-63590) Watching server Crash
-- [MC-62958](https://bugs.mojang.com/browse/MC-62958) Corrupted chunks (visual)
+- [MC-62958](https://bugs.mojang.com/browse/MC-62958) Massive Visual Glitching with VBO turned off and Chunk distance over 16
 - [MC-61246](https://bugs.mojang.com/browse/MC-61246) OSX: Retina and F+11 Fullscreen Broken
 - [MC-62197](https://bugs.mojang.com/browse/MC-62197) Signs and chests display cracking animation incorrectly. (wrong center)
 - [MC-63365](https://bugs.mojang.com/browse/MC-63365) Chest connection incorrect
