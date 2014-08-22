@@ -12,6 +12,7 @@ Click [here](https://github.com/Mojira/Staff-Resources/blob/master/Parent%20Tick
 - [MC-68748](https://bugs.mojang.com/browse/MC-68748) Crash : fire and Command "Summon SmallFireball"
 - [MC-68754](https://bugs.mojang.com/browse/MC-68754) Exiting Fullscreen Disables Maximize
 - [MC-68797](https://bugs.mojang.com/browse/MC-68797) Sticky Command Key Pasting Copying Cutting All
+- [MC-68809](https://bugs.mojang.com/browse/MC-68809) Held Item Lighting Incorrect In Torch Blocks
 
 ## Snapshot 14w34x
 
