@@ -1,4 +1,4 @@
-Click [here](https://github.com/Mojira/Staff-Resources/blob/master/Parent%20Ticket%20List.md#editing-this-document) for editing instructions)
+Click [here](https://github.com/Mojira/Staff-Resources/blob/master/Parent%20Ticket%20List.md#editing-this-document) for editing instructions
 
 ## 1.8-pre1
 
