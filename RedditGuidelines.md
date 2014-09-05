@@ -1,4 +1,4 @@
-Reddit Mod "Guidelines"
+## Reddit Mod "Guidelines"
 
 1. Be nice and friendly. Some users don't know in some cases what we are talking about. Yes, they might not be supposed to be 
 reporting bugs in the first place, but also things like this need to be explained in a nice way (example: "The bug tracker is a
