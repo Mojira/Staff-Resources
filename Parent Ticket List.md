@@ -1,5 +1,22 @@
 Click [here](https://github.com/Mojira/Staff-Resources/blob/master/Parent%20Ticket%20List.md#editing-this-document) for editing instructions
 
+## 1.8.2-pre
+
+- [MC-40275](https://bugs.mojang.com/browse/MC-40275) Credit screen/End Poem music not playing correctly
+- [MC-51804](https://bugs.mojang.com/browse/MC-51804) Corner fences / cobblestone wall with a block next to them turn black (Smooth lighting off)
+- [MC-71163](https://bugs.mojang.com/browse/MC-71163) Bed can overlap when placed on grass
+- [MC-76562](https://bugs.mojang.com/browse/MC-76562) Hoppers don't work
+- [MC-76556](https://bugs.mojang.com/browse/MC-76556) Creepers, Blazes, Pigs, Ocelots and Rabbits take damage every 0.5 seconds
+- [MC-417](https://bugs.mojang.com/browse/MC-417) Arrows first bounce back then appear at correct location
+- [MC-3885](https://bugs.mojang.com/browse/MC-3885) Arrows shot into the underside of a block appear black
+- [MC-8578](https://bugs.mojang.com/browse/MC-8578) Hopper sometimes doesn't suck items above when they are overlaying
+- [MC-41881](https://bugs.mojang.com/browse/MC-41881) Hopper minecart acts like it is in a different position
+- [MC-59549](https://bugs.mojang.com/browse/MC-59549) Graphical Arrow Glitch in Position
+- [MC-70104](https://bugs.mojang.com/browse/MC-70104) Arrow visual glitch (fake arrow)
+- [MC-73866](https://bugs.mojang.com/browse/MC-73866) Game crash when an item is thrown into a nether portal.
+- [MC-74580](https://bugs.mojang.com/browse/MC-74580) Marker Tag doesn't make hitbox small anymore
+- [MC-76239](https://bugs.mojang.com/browse/MC-76239) Minecraft Realms main menu button's text between quotation marks
+
 ## 1.8-pre1
 
 - [MC-68718](https://bugs.mojang.com/browse/MC-68718) Redstone dust on torch destroy the torch
