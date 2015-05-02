@@ -1,5 +1,9 @@
 Click [here](https://github.com/Mojira/Staff-Resources/blob/master/Parent%20Ticket%20List.md#editing-this-document) for editing instructions
 
+## 1.8.4
+
+- [MC-79972](https://bugs.mojang.com/browse/MC-79972) targeting with only y and dy doesn't work in command block
+
 ## 1.8.2-pre
 
 - [MC-40275](https://bugs.mojang.com/browse/MC-40275) Credit screen/End Poem music not playing correctly
