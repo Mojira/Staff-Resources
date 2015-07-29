@@ -39,7 +39,7 @@ Click [here](https://github.com/Mojira/Staff-Resources/blob/master/Parent%20Tick
 - [MC-82863](https://bugs.mojang.com/browse/MC-82863) outline effect and held items
 - [MC-82864](https://bugs.mojang.com/browse/MC-82864) items floating in hands
 - [MC-82870](https://bugs.mojang.com/browse/MC-82870) chorus plant hitbox
-- [MC-82871](https://bugs.mojang.com/browse/MC-82871) books displaying json stuff
+- [MC-82907](https://bugs.mojang.com/browse/MC-82907) books displaying json stuff
 - [MC-82874](https://bugs.mojang.com/browse/MC-82874) main hand setting is lost on death
 - [MC-82893](https://bugs.mojang.com/browse/MC-82893) enchanted books not getting enchants
 - [MC-82901](https://bugs.mojang.com/browse/MC-82901) path block height
