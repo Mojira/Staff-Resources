@@ -25,6 +25,7 @@ Click [here](https://github.com/Mojira/Staff-Resources/blob/master/Parent%20Tick
 - [MC-82938](https://bugs.mojang.com/browse/MC-82938) Enderman arm/head misplaced
 - [MC-83051](https://bugs.mojang.com/browse/MC-83051) Spectral Arrow hits Endermen
 - [MC-83271](https://bugs.mojang.com/browse/MC-83271) Spectral Arrow doesn't work on Ender Dragon
+- [MC-83303](https://bugs.mojang.com/browse/MC-83303) enchant effect outlines full inventory tile
 
 ## 1.8.4
 
