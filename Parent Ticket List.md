@@ -46,6 +46,8 @@ Click [here](https://github.com/Mojira/Staff-Resources/blob/master/Parent%20Tick
 - [MC-83239](https://bugs.mojang.com/browse/MC-83239) Additional Ender Dragons don't display boss health bar
 - [MC-82925](https://bugs.mojang.com/browse/MC-82925) Pre-existing potions/bottles missing texture in snapshot
 - [MC-58034](https://bugs.mojang.com/browse/MC-58034) Cannot give portal blocks
+- [MC-83187](https://bugs.mojang.com/browse/MC-83187) Quote marks on signs
+- [MC-82968](https://bugs.mojang.com/browse/MC-82968) Kicked from server by signs
 
 ## 1.8.4
 
