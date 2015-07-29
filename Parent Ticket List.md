@@ -12,6 +12,12 @@ Click [here](https://github.com/Mojira/Staff-Resources/blob/master/Parent%20Tick
 - [MC-83280](https://bugs.mojang.com/browse/MC-83280) levitation potion name
 - [MC-82808](https://bugs.mojang.com/browse/MC-82808) arrow names
 - [MC-82824](https://bugs.mojang.com/browse/MC-82824) items not picking up in second hand
+- [MC-82819](https://bugs.mojang.com/browse/MC-82819) levitation kicks players
+- [MC-82831](https://bugs.mojang.com/browse/MC-82831) skin backwards in inventory
+- [MC-82832](https://bugs.mojang.com/browse/MC-82832) end portal spawning incorrectly
+- [MC-82833](https://bugs.mojang.com/browse/MC-82833) shulker projectile follows player in creative
+- [MC-82835](https://bugs.mojang.com/browse/MC-82835) creative pearl usage decreases item count temporarily
+- [MC-82841](https://bugs.mojang.com/browse/MC-82841) arrows bright at night
 
 ## 1.8.4
 
