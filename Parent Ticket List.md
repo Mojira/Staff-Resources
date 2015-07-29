@@ -38,7 +38,7 @@ Click [here](https://github.com/Mojira/Staff-Resources/blob/master/Parent%20Tick
 - [MC-82864](https://bugs.mojang.com/browse/MC-82864) items floating in hands
 - [MC-82870](https://bugs.mojang.com/browse/MC-82870) chorus plant hitbox
 - [MC-82907](https://bugs.mojang.com/browse/MC-82907) books displaying json stuff
-- [MC-82893](https://bugs.mojang.com/browse/MC-82893) enchanted books not getting enchants
+- [MC-83336](https://bugs.mojang.com/browse/MC-83336) enchanted items not getting enchants
 - [MC-82901](https://bugs.mojang.com/browse/MC-82901) path block height
 - [MC-3461](https://bugs.mojang.com/browse/MC-3461) Player-built end portals won't activate
 - [MC-82986](https://bugs.mojang.com/browse/MC-82986) Items with same ID but different NBT will stack
