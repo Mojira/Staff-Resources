@@ -47,6 +47,7 @@ Click [here](https://github.com/Mojira/Staff-Resources/blob/master/Parent%20Tick
 - [MC-58034](https://bugs.mojang.com/browse/MC-58034) Cannot give portal blocks
 - [MC-83187](https://bugs.mojang.com/browse/MC-83187) Quote marks on signs
 - [MC-82968](https://bugs.mojang.com/browse/MC-82968) Kicked from server by signs
+- [MC-83336](https://bugs.mojang.com/browse/MC-83336) Enchantments broken, no properties
 
 ## 1.8.4
 
