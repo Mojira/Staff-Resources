@@ -28,6 +28,7 @@ Click [here](https://github.com/Mojira/Staff-Resources/blob/master/Parent%20Tick
 - [MC-83303](https://bugs.mojang.com/browse/MC-83303) enchant effect outlines full inventory tile
 - [MC-82811](https://bugs.mojang.com/browse/MC-82811) creative eating glitch
 - [MC-83189](https://bugs.mojang.com/browse/MC-83189) Main hand reverts on death
+- [MC-83284](https://bugs.mojang.com/browse/MC-83284) Strict JSON causes client exception in multiplayer
 
 ## 1.8.4
 
