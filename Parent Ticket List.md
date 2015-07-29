@@ -43,6 +43,9 @@ Click [here](https://github.com/Mojira/Staff-Resources/blob/master/Parent%20Tick
 - [MC-82901](https://bugs.mojang.com/browse/MC-82901) path block height
 - [MC-3461](https://bugs.mojang.com/browse/MC-3461) Player-built end portals won't activate
 - [MC-82986](https://bugs.mojang.com/browse/MC-82986) Items with same ID but different NBT will stack
+- [MC-83239](https://bugs.mojang.com/browse/MC-83239) Additional Ender Dragons don't display boss health bar
+- [MC-82925](https://bugs.mojang.com/browse/MC-82925) Pre-existing potions/bottles missing texture in snapshot
+- [MC-58034](https://bugs.mojang.com/browse/MC-58034) Cannot give portal blocks
 
 
 ## 1.8.4
