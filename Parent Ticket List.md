@@ -15,6 +15,13 @@ Click [here](https://github.com/Mojira/Staff-Resources/blob/master/Parent%20Tick
 - [MC-82896](https://bugs.mojang.com/browse/MC-82896) Clear doesn't work (with offhand)
 - [MC-82853](https://bugs.mojang.com/browse/MC-82853) Dragon stuck on bedrock
 - [MC-82824](https://bugs.mojang.com/browse/MC-82824) Items stack to inventory instead of offhand
+- [MC-82819](https://bugs.mojang.com/browse/MC-82819) levitation kicks players
+- [MC-82831](https://bugs.mojang.com/browse/MC-82831) skin backwards in inventory
+- [MC-82832](https://bugs.mojang.com/browse/MC-82832) end portal spawning incorrectly
+- [MC-82833](https://bugs.mojang.com/browse/MC-82833) shulker projectile follows player in creative
+- [MC-82835](https://bugs.mojang.com/browse/MC-82835) creative pearl usage decreases item count temporarily
+- [MC-82841](https://bugs.mojang.com/browse/MC-82841) arrows bright at night
+
 
 ## 1.8.4
 
