@@ -12,7 +12,7 @@ Click [here](https://github.com/Mojira/Staff-Resources/blob/master/Parent%20Tick
 - [MC-82821](https://bugs.mojang.com/browse/MC-82821) levitation potion name
 - [MC-82808](https://bugs.mojang.com/browse/MC-82808) Arrow as potion or bottle name
 - [MC-82876](https://bugs.mojang.com/browse/MC-82876) Hiding particles does not work
-- [MC-82896](https://bugs.mojang.com/browse/MC-82896) Clear doesn't work (with offhand)
+- [MC-82896](https://bugs.mojang.com/browse/MC-82896) Clear doesn't work (with offhand) /clear
 - [MC-82853](https://bugs.mojang.com/browse/MC-82853) Dragon stuck on bedrock
 - [MC-82824](https://bugs.mojang.com/browse/MC-82824) Items stack to inventory instead of offhand
 - [MC-82819](https://bugs.mojang.com/browse/MC-82819) levitation kicks players
