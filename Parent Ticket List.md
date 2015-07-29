@@ -9,7 +9,7 @@ Click [here](https://github.com/Mojira/Staff-Resources/blob/master/Parent%20Tick
 - [MC-83141](https://bugs.mojang.com/browse/MC-83141) clock and compass show default location when being moved
 - [MC-82854](https://bugs.mojang.com/browse/MC-82854) stair orientation
 - [MC-82859](https://bugs.mojang.com/browse/MC-82859) Arrows give stack when picked up
-- [MC-83280](https://bugs.mojang.com/browse/MC-83280) levitation potion name
+- [MC-82821](https://bugs.mojang.com/browse/MC-82821) levitation potion name
 - [MC-82808](https://bugs.mojang.com/browse/MC-82808) Arrow as potion or bottle name
 - [MC-82876](https://bugs.mojang.com/browse/MC-82876) Hiding particles does not work
 - [MC-82896](https://bugs.mojang.com/browse/MC-82896) Clear doesn't work (with offhand)
@@ -27,7 +27,27 @@ Click [here](https://github.com/Mojira/Staff-Resources/blob/master/Parent%20Tick
 - [MC-83271](https://bugs.mojang.com/browse/MC-83271) Spectral Arrow doesn't work on Ender Dragon
 - [MC-83303](https://bugs.mojang.com/browse/MC-83303) enchant effect outlines full inventory tile
 - [MC-82811](https://bugs.mojang.com/browse/MC-82811) creative eating glitch
-- [MC-82925](https://bugs.mojang.com/browse/MC-82925) old potions don’t have texture
+- [MC-83189](https://bugs.mojang.com/browse/MC-83189) Main hand reverts on death
+- [MC-83284](https://bugs.mojang.com/browse/MC-83284) Strict JSON causes client exception in multiplayer
+- [MC-82828](https://bugs.mojang.com/browse/MC-82828) stairs rendering
+- [MC-82816](https://bugs.mojang.com/browse/MC-82816) no dragon spawned
+- [MC-82842](https://bugs.mojang.com/browse/MC-82842) mining animation plays on *all* players
+- [MC-82846](https://bugs.mojang.com/browse/MC-82846) enchant glint is all over the slots
+- [MC-82847](https://bugs.mojang.com/browse/MC-82847) achievements outside the achievement window
+- [MC-82855](https://bugs.mojang.com/browse/MC-82855) invisible shulkers
+- [MC-82863](https://bugs.mojang.com/browse/MC-82863) outline effect and held items
+- [MC-82864](https://bugs.mojang.com/browse/MC-82864) items floating in hands
+- [MC-82870](https://bugs.mojang.com/browse/MC-82870) chorus plant hitbox
+- [MC-82907](https://bugs.mojang.com/browse/MC-82907) books displaying json stuff
+- [MC-82893](https://bugs.mojang.com/browse/MC-82893) enchanted books not getting enchants
+- [MC-82901](https://bugs.mojang.com/browse/MC-82901) path block height
+- [MC-3461](https://bugs.mojang.com/browse/MC-3461) Player-built end portals won't activate
+- [MC-82986](https://bugs.mojang.com/browse/MC-82986) Items with same ID but different NBT will stack
+- [MC-83239](https://bugs.mojang.com/browse/MC-83239) Additional Ender Dragons don't display boss health bar
+- [MC-82925](https://bugs.mojang.com/browse/MC-82925) Pre-existing potions/bottles missing texture in snapshot
+- [MC-58034](https://bugs.mojang.com/browse/MC-58034) Cannot give portal blocks
+
+>>>>>>> origin/master
 
 ## 1.8.4
 
