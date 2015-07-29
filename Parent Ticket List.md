@@ -25,14 +25,13 @@ Click [here](https://github.com/Mojira/Staff-Resources/blob/master/Parent%20Tick
 - [MC-82938](https://bugs.mojang.com/browse/MC-82938) Enderman arm/head misplaced
 - [MC-83051](https://bugs.mojang.com/browse/MC-83051) Spectral Arrow hits Endermen
 - [MC-83271](https://bugs.mojang.com/browse/MC-83271) Spectral Arrow doesn't work on Ender Dragon
-- [MC-83303](https://bugs.mojang.com/browse/MC-83303) enchant effect outlines full inventory tile
 - [MC-82811](https://bugs.mojang.com/browse/MC-82811) creative eating glitch
 - [MC-83189](https://bugs.mojang.com/browse/MC-83189) Main hand reverts on death
 - [MC-83284](https://bugs.mojang.com/browse/MC-83284) Strict JSON causes client exception in multiplayer
 - [MC-82828](https://bugs.mojang.com/browse/MC-82828) stairs rendering
 - [MC-82816](https://bugs.mojang.com/browse/MC-82816) no dragon spawned
 - [MC-82842](https://bugs.mojang.com/browse/MC-82842) mining animation plays on *all* players
-- [MC-82846](https://bugs.mojang.com/browse/MC-82846) enchant glint is all over the slots
+- [MC-82846](https://bugs.mojang.com/browse/MC-82846) enchant effect outlines full inventory tile
 - [MC-82847](https://bugs.mojang.com/browse/MC-82847) achievements outside the achievement window
 - [MC-82855](https://bugs.mojang.com/browse/MC-82855) invisible shulkers
 - [MC-82863](https://bugs.mojang.com/browse/MC-82863) outline effect and held items
