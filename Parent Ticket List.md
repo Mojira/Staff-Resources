@@ -9,6 +9,7 @@ Click [here](https://github.com/Mojira/Staff-Resources/blob/master/Parent%20Tick
 - [MC-83141](https://bugs.mojang.com/browse/MC-83141) clock and compass show default location when being moved
 - [MC-82854](https://bugs.mojang.com/browse/MC-82854) stair orientation
 - [MC-83258](https://bugs.mojang.com/browse/MC-83258) Arrows give stack when picked up
+- [MC-83280](https://bugs.mojang.com/browse/MC-83280) levitation potion name
 
 ## 1.8.4
 
