@@ -8,7 +8,7 @@ Click [here](https://github.com/Mojira/Staff-Resources/blob/master/Parent%20Tick
 - [MC-83118](https://bugs.mojang.com/browse/MC-83118) replace item doesn’t work properly
 - [MC-83141](https://bugs.mojang.com/browse/MC-83141) clock and compass show default location when being moved
 - [MC-82854](https://bugs.mojang.com/browse/MC-82854) stair orientation
-- [MC-83258](https://bugs.mojang.com/browse/MC-83258) Arrows give stack when picked up
+- [MC-82859](https://bugs.mojang.com/browse/MC-82859) Arrows give stack when picked up
 - [MC-83280](https://bugs.mojang.com/browse/MC-83280) levitation potion name
 - [MC-82808](https://bugs.mojang.com/browse/MC-82808) Arrow as potion or bottle name
 - [MC-82876](https://bugs.mojang.com/browse/MC-82876) Hiding particles does not work
