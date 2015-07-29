@@ -26,6 +26,7 @@ Click [here](https://github.com/Mojira/Staff-Resources/blob/master/Parent%20Tick
 - [MC-83051](https://bugs.mojang.com/browse/MC-83051) Spectral Arrow hits Endermen
 - [MC-83271](https://bugs.mojang.com/browse/MC-83271) Spectral Arrow doesn't work on Ender Dragon
 - [MC-83303](https://bugs.mojang.com/browse/MC-83303) enchant effect outlines full inventory tile
+- [MC-82811](https://bugs.mojang.com/browse/MC-82811) creative eating glitch
 
 ## 1.8.4
 
