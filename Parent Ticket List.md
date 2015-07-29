@@ -16,12 +16,15 @@ Click [here](https://github.com/Mojira/Staff-Resources/blob/master/Parent%20Tick
 - [MC-82853](https://bugs.mojang.com/browse/MC-82853) Dragon stuck on bedrock
 - [MC-82824](https://bugs.mojang.com/browse/MC-82824) Items stack to inventory instead of offhand
 - [MC-82819](https://bugs.mojang.com/browse/MC-82819) levitation kicks players
-- [MC-82831](https://bugs.mojang.com/browse/MC-82831) skin backwards in inventory
+- [MC-83004](https://bugs.mojang.com/browse/MC-83004) skin backwards in inventory
 - [MC-82832](https://bugs.mojang.com/browse/MC-82832) end portal spawning incorrectly
 - [MC-82833](https://bugs.mojang.com/browse/MC-82833) shulker projectile follows player in creative
 - [MC-82835](https://bugs.mojang.com/browse/MC-82835) creative pearl usage decreases item count temporarily
 - [MC-82841](https://bugs.mojang.com/browse/MC-82841) arrows bright at night
-
+- [MC-82995](https://bugs.mojang.com/browse/MC-82995) Blocking with both swords
+- [MC-82938](https://bugs.mojang.com/browse/MC-82938) Enderman arm/head misplaced
+- [MC-83051](https://bugs.mojang.com/browse/MC-83051) Spectral Arrow hits Endermen
+- [MC-83271](https://bugs.mojang.com/browse/MC-83271) Spectral Arrow doesn't work on Ender Dragon
 
 ## 1.8.4
 
