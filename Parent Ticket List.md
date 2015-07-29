@@ -10,14 +10,11 @@ Click [here](https://github.com/Mojira/Staff-Resources/blob/master/Parent%20Tick
 - [MC-82854](https://bugs.mojang.com/browse/MC-82854) stair orientation
 - [MC-83258](https://bugs.mojang.com/browse/MC-83258) Arrows give stack when picked up
 - [MC-83280](https://bugs.mojang.com/browse/MC-83280) levitation potion name
-- [MC-82808](https://bugs.mojang.com/browse/MC-82808) arrow names
-- [MC-82824](https://bugs.mojang.com/browse/MC-82824) items not picking up in second hand
-- [MC-82819](https://bugs.mojang.com/browse/MC-82819) levitation kicks players
-- [MC-82831](https://bugs.mojang.com/browse/MC-82831) skin backwards in inventory
-- [MC-82832](https://bugs.mojang.com/browse/MC-82832) end portal spawning incorrectly
-- [MC-82833](https://bugs.mojang.com/browse/MC-82833) shulker projectile follows player in creative
-- [MC-82835](https://bugs.mojang.com/browse/MC-82835) creative pearl usage decreases item count temporarily
-- [MC-82841](https://bugs.mojang.com/browse/MC-82841) arrows bright at night
+- [MC-82808](https://bugs.mojang.com/browse/MC-82808) Arrow as potion or bottle name
+- [MC-82876](https://bugs.mojang.com/browse/MC-82876) Hiding particles does not work
+- [MC-82896](https://bugs.mojang.com/browse/MC-82896) Clear doesn't work (with offhand)
+- [MC-82853](https://bugs.mojang.com/browse/MC-82853) Dragon stuck on bedrock
+- [MC-82824](https://bugs.mojang.com/browse/MC-82824) Items stack to inventory instead of offhand
 
 ## 1.8.4
 
