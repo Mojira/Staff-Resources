@@ -47,8 +47,6 @@ Click [here](https://github.com/Mojira/Staff-Resources/blob/master/Parent%20Tick
 - [MC-82925](https://bugs.mojang.com/browse/MC-82925) Pre-existing potions/bottles missing texture in snapshot
 - [MC-58034](https://bugs.mojang.com/browse/MC-58034) Cannot give portal blocks
 
->>>>>>> origin/master
-
 ## 1.8.4
 
 - [MC-79972](https://bugs.mojang.com/browse/MC-79972) targeting with only y and dy doesn't work in command block
