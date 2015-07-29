@@ -31,7 +31,6 @@ Click [here](https://github.com/Mojira/Staff-Resources/blob/master/Parent%20Tick
 - [MC-83284](https://bugs.mojang.com/browse/MC-83284) Strict JSON causes client exception in multiplayer
 - [MC-82828](https://bugs.mojang.com/browse/MC-82828) stairs rendering
 - [MC-82816](https://bugs.mojang.com/browse/MC-82816) no dragon spawned
-- [MC-82831](https://bugs.mojang.com/browse/MC-82831) backwards in inventory
 - [MC-82842](https://bugs.mojang.com/browse/MC-82842) mining animation plays on *all* players
 - [MC-82846](https://bugs.mojang.com/browse/MC-82846) enchant glint is all over the slots
 - [MC-82847](https://bugs.mojang.com/browse/MC-82847) achievements outside the achievement window
@@ -40,9 +39,11 @@ Click [here](https://github.com/Mojira/Staff-Resources/blob/master/Parent%20Tick
 - [MC-82864](https://bugs.mojang.com/browse/MC-82864) items floating in hands
 - [MC-82870](https://bugs.mojang.com/browse/MC-82870) chorus plant hitbox
 - [MC-82907](https://bugs.mojang.com/browse/MC-82907) books displaying json stuff
-- [MC-82874](https://bugs.mojang.com/browse/MC-82874) main hand setting is lost on death
 - [MC-82893](https://bugs.mojang.com/browse/MC-82893) enchanted books not getting enchants
 - [MC-82901](https://bugs.mojang.com/browse/MC-82901) path block height
+- [MC-3461](https://bugs.mojang.com/browse/MC-3461) Player-built end portals won't activate
+- [MC-82986](https://bugs.mojang.com/browse/MC-82986) Items with same ID but different NBT will stack
+
 
 ## 1.8.4
 
