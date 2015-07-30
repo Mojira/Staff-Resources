@@ -64,7 +64,7 @@ Click [here](https://github.com/Mojira/Staff-Resources/blob/master/Parent%20Tick
 - [MC-82968](https://bugs.mojang.com/browse/MC-82968) Kicked from server by signs
 - [MC-83309](https://bugs.mojang.com/browse/MC-83309) opening inventory on horse crash
 - [MC-83449](https://bugs.mojang.com/browse/MC-83449) Exception while updating neighbours (crash)
-- [MC-83310](https://bugs.mojang.com/browse/MC-83449) Cocoa beans crash
+- [MC-82880](https://bugs.mojang.com/browse/MC-82880) Cocoa beans crash
 
 #### Other
 - [MC-82835](https://bugs.mojang.com/browse/MC-82835) creative pearl usage decreases item count temporarily
