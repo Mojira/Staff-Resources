@@ -3,6 +3,7 @@ Click [here](https://github.com/Mojira/Staff-Resources/blob/master/Parent%20Tick
 ## 15w31b
 
 - [MC-83871](https://bugs.mojang.com/browse/MC-83871) water arrow name
+- [MC-83897](https://bugs.mojang.com/browse/MC-83897) Generated/Found Enchanted Books have no enchantments
 
 ## 15w31a
 
