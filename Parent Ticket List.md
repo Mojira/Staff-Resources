@@ -38,7 +38,7 @@ Click [here](https://github.com/Mojira/Staff-Resources/blob/master/Parent%20Tick
 - [MC-82939](https://bugs.mojang.com/browse/MC-82939) shulkers in minecarts teleporting
 - [MC-82870](https://bugs.mojang.com/browse/MC-82870) chorus plant hitbox
 - [MC-82855](https://bugs.mojang.com/browse/MC-82855) invisible shulkers
-- [MC-83191](https://bugs.mojang.com/browse/MC-83191) dead dragon flying around
+- [MC-84035](https://bugs.mojang.com/browse/MC-84035) dead dragon flying around
 - [MC-83241](https://bugs.mojang.com/browse/MC-83241) chorus flower wrong texture
 
 #### Texture/rendering
