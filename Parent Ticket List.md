@@ -1,5 +1,9 @@
 Click [here](https://github.com/Mojira/Staff-Resources/blob/master/Parent%20Ticket%20List.md#editing-this-document) for editing instructions
 
+## 15w31b
+
+- [-83871](https://bugs.mojang.com/browse/MC-83871) water arrow name
+
 ## 15w31a
 
 #### Arrow
