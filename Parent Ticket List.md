@@ -26,7 +26,6 @@ Click [here](https://github.com/Mojira/Staff-Resources/blob/master/Parent%20Tick
 - [MC-83051](https://bugs.mojang.com/browse/MC-83051) Spectral Arrow hits Endermen
 - [MC-83271](https://bugs.mojang.com/browse/MC-83271) Spectral Arrow doesn't work on Ender Dragon
 - [MC-82811](https://bugs.mojang.com/browse/MC-82811) creative eating glitch
-- [MC-83189](https://bugs.mojang.com/browse/MC-83189) Main hand reverts on death
 - [MC-83284](https://bugs.mojang.com/browse/MC-83284) Strict JSON causes client exception in multiplayer
 - [MC-82828](https://bugs.mojang.com/browse/MC-82828) stairs rendering
 - [MC-82816](https://bugs.mojang.com/browse/MC-82816) no dragon spawned
