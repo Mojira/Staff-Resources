@@ -2,7 +2,7 @@ Click [here](https://github.com/Mojira/Staff-Resources/blob/master/Parent%20Tick
 
 ## 15w31b
 
-- [-83871](https://bugs.mojang.com/browse/MC-83871) water arrow name
+- [MC-83871](https://bugs.mojang.com/browse/MC-83871) water arrow name
 
 ## 15w31a
 
