@@ -26,6 +26,7 @@ Click [here](https://github.com/Mojira/Staff-Resources/blob/master/Parent%20Tick
 - [MC-82833](https://bugs.mojang.com/browse/MC-82833) shulker projectile follows player in creative
 - [MC-82816](https://bugs.mojang.com/browse/MC-82816) no dragon spawned
 - [MC-83239](https://bugs.mojang.com/browse/MC-83239) Additional Ender Dragons don't display boss health bar
+- [MC-83702](https://bugs.mojang.com/browse/MC-83702) Additional Dragons drop eggs
 - [MC-83001](https://bugs.mojang.com/browse/MC-83001) two dragons
 - [MC-83039](https://bugs.mojang.com/browse/MC-83039) end city spawning with items on ground
 - [MC-82939](https://bugs.mojang.com/browse/MC-82939) shulkers in minecarts teleporting
@@ -62,6 +63,8 @@ Click [here](https://github.com/Mojira/Staff-Resources/blob/master/Parent%20Tick
 - [MC-82907](https://bugs.mojang.com/browse/MC-82907) books displaying json stuff
 - [MC-82968](https://bugs.mojang.com/browse/MC-82968) Kicked from server by signs
 - [MC-83309](https://bugs.mojang.com/browse/MC-83309) opening inventory on horse crash
+- [MC-83449](https://bugs.mojang.com/browse/MC-83449) Exception while updating neighbours (crash)
+- [MC-83310](https://bugs.mojang.com/browse/MC-83449) Cocoa beans crash
 
 #### Other
 - [MC-82835](https://bugs.mojang.com/browse/MC-82835) creative pearl usage decreases item count temporarily
@@ -69,6 +72,11 @@ Click [here](https://github.com/Mojira/Staff-Resources/blob/master/Parent%20Tick
 - [MC-82901](https://bugs.mojang.com/browse/MC-82901) path block height
 - [MC-82986](https://bugs.mojang.com/browse/MC-82986) Items with same ID but different NBT will stack
 - [MC-82971](https://bugs.mojang.com/browse/MC-82971) wither attacks before initial explosion
+- [MC-83709](https://bugs.mojang.com/browse/MC-83709) Scrolling skips rows in creative tab
+- [MC-83490](https://bugs.mojang.com/browse/MC-83490) Grow giant mushroom in unusual condition
+- [MC-83471](https://bugs.mojang.com/browse/MC-83471) Custom potion effects do not work with splash potions
+- [MC-83468](https://bugs.mojang.com/browse/MC-83468) Lead Duplication
+- [MC-83369](https://bugs.mojang.com/browse/MC-83369) Levitation does not work in water
 
 #### Invalids
 - [MC-82854](https://bugs.mojang.com/browse/MC-82854) stair orientation
