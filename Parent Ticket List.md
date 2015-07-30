@@ -15,6 +15,7 @@ Click [here](https://github.com/Mojira/Staff-Resources/blob/master/Parent%20Tick
 - [MC-83051](https://bugs.mojang.com/browse/MC-83051) Spectral Arrow hits Endermen
 - [MC-83271](https://bugs.mojang.com/browse/MC-83271) Spectral Arrow doesn't work on Ender Dragon
 - [MC-83301](https://bugs.mojang.com/browse/MC-83301) spectral arrows and team outlines on items
+- [MC-83871](https://bugs.mojang.com/browse/MC-83871) water arrow name
 
 #### Off-hand
 - [MC-82896](https://bugs.mojang.com/browse/MC-82896) Clear doesn't work (with offhand) /clear
