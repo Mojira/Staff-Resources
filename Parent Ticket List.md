@@ -5,7 +5,7 @@ Click [here](https://github.com/Mojira/Staff-Resources/blob/master/Parent%20Tick
 - [MC-82809](https://bugs.mojang.com/browse/MC-82809) spectral arrow texture missing
 - [MC-82839](https://bugs.mojang.com/browse/MC-82839) black screen in 15w31a
 - [MC-82875](https://bugs.mojang.com/browse/MC-82875) swords still block
-- [MC-83118](https://bugs.mojang.com/browse/MC-83118) replace item doesn’t work properly
+- [MC-83041](https://bugs.mojang.com/browse/MC-83041) /replaceitem doesn’t work properly
 - [MC-83141](https://bugs.mojang.com/browse/MC-83141) clock and compass show default location when being moved
 - [MC-82854](https://bugs.mojang.com/browse/MC-82854) stair orientation
 - [MC-82859](https://bugs.mojang.com/browse/MC-82859) Arrows give stack when picked up
