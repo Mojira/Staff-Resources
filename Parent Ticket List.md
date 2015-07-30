@@ -2,64 +2,80 @@ Click [here](https://github.com/Mojira/Staff-Resources/blob/master/Parent%20Tick
 
 ## 15w31a
 
+#### Arrow
 - [MC-82809](https://bugs.mojang.com/browse/MC-82809) spectral arrow texture missing
-- [MC-82839](https://bugs.mojang.com/browse/MC-82839) black screen in 15w31a
-- [MC-82875](https://bugs.mojang.com/browse/MC-82875) swords still block
-- [MC-83041](https://bugs.mojang.com/browse/MC-83041) /replaceitem doesn’t work properly
-- [MC-83141](https://bugs.mojang.com/browse/MC-83141) clock and compass show default location when being moved
-- [MC-82854](https://bugs.mojang.com/browse/MC-82854) stair orientation
 - [MC-82859](https://bugs.mojang.com/browse/MC-82859) Arrows give stack when picked up
-- [MC-82821](https://bugs.mojang.com/browse/MC-82821) levitation potion name
 - [MC-82808](https://bugs.mojang.com/browse/MC-82808) Arrow as potion or bottle name
-- [MC-82876](https://bugs.mojang.com/browse/MC-82876) Hiding particles does not work
-- [MC-82896](https://bugs.mojang.com/browse/MC-82896) Clear doesn't work (with offhand) /clear
-- [MC-82853](https://bugs.mojang.com/browse/MC-82853) Dragon stuck on bedrock
-- [MC-82824](https://bugs.mojang.com/browse/MC-82824) Items stack to inventory instead of offhand
-- [MC-82819](https://bugs.mojang.com/browse/MC-82819) levitation kicks players
-- [MC-83004](https://bugs.mojang.com/browse/MC-83004) skin backwards in inventory
-- [MC-82832](https://bugs.mojang.com/browse/MC-82832) end portal spawning incorrectly
-- [MC-82833](https://bugs.mojang.com/browse/MC-82833) shulker projectile follows player in creative
-- [MC-82835](https://bugs.mojang.com/browse/MC-82835) creative pearl usage decreases item count temporarily
 - [MC-82841](https://bugs.mojang.com/browse/MC-82841) arrows bright at night
-- [MC-82995](https://bugs.mojang.com/browse/MC-82995) Blocking with both swords
-- [MC-82938](https://bugs.mojang.com/browse/MC-82938) Enderman arm/head misplaced
 - [MC-83051](https://bugs.mojang.com/browse/MC-83051) Spectral Arrow hits Endermen
 - [MC-83271](https://bugs.mojang.com/browse/MC-83271) Spectral Arrow doesn't work on Ender Dragon
-- [MC-82811](https://bugs.mojang.com/browse/MC-82811) creative eating glitch
-- [MC-83284](https://bugs.mojang.com/browse/MC-83284) Strict JSON causes client exception in multiplayer
-- [MC-82828](https://bugs.mojang.com/browse/MC-82828) stairs rendering
-- [MC-82816](https://bugs.mojang.com/browse/MC-82816) no dragon spawned
-- [MC-82842](https://bugs.mojang.com/browse/MC-82842) mining animation plays on *all* players
-- [MC-82846](https://bugs.mojang.com/browse/MC-82846) enchant effect outlines full inventory tile
-- [MC-82847](https://bugs.mojang.com/browse/MC-82847) achievements outside the achievement window
-- [MC-82855](https://bugs.mojang.com/browse/MC-82855) invisible shulkers
-- [MC-82863](https://bugs.mojang.com/browse/MC-82863) outline effect and held items
-- [MC-82864](https://bugs.mojang.com/browse/MC-82864) items floating in hands
-- [MC-82870](https://bugs.mojang.com/browse/MC-82870) chorus plant hitbox
-- [MC-82907](https://bugs.mojang.com/browse/MC-82907) books displaying json stuff
-- [MC-83336](https://bugs.mojang.com/browse/MC-83336) enchanted items not getting enchants
-- [MC-82901](https://bugs.mojang.com/browse/MC-82901) path block height
-- [MC-3461](https://bugs.mojang.com/browse/MC-3461) Player-built end portals won't activate
-- [MC-82986](https://bugs.mojang.com/browse/MC-82986) Items with same ID but different NBT will stack
-- [MC-83239](https://bugs.mojang.com/browse/MC-83239) Additional Ender Dragons don't display boss health bar
-- [MC-82925](https://bugs.mojang.com/browse/MC-82925) Pre-existing potions/bottles missing texture in snapshot
-- [MC-58034](https://bugs.mojang.com/browse/MC-58034) Cannot give portal blocks
-- [MC-83187](https://bugs.mojang.com/browse/MC-83187) Quote marks on signs
-- [MC-82968](https://bugs.mojang.com/browse/MC-82968) Kicked from server by signs
+- [MC-83301](https://bugs.mojang.com/browse/MC-83301) spectral arrows and team outlines on items
+
+#### Off-hand
+- [MC-82896](https://bugs.mojang.com/browse/MC-82896) Clear doesn't work (with offhand) /clear
+- [MC-82824](https://bugs.mojang.com/browse/MC-82824) Items stack to inventory instead of offhand
+- [MC-82995](https://bugs.mojang.com/browse/MC-82995) Blocking with both swords
 - [MC-82874](https://bugs.mojang.com/browse/MC-82874) main hand setting is lost on death
-- [MC-82876](https://bugs.mojang.com/browse/MC-82876) hide particles not working
 - [MC-82965](https://bugs.mojang.com/browse/MC-82965) main hand swings in f5 when using off hand
-- [MC-82971](https://bugs.mojang.com/browse/MC-82971) wither attacks before initial explosion
+- [MC-82955](https://bugs.mojang.com/browse/MC-82955) alex player model offhand items
+- [MC-83185](https://bugs.mojang.com/browse/MC-83185) bobber disappears when fishing with off hand
+
+#### End/Dragon/Shulker
+- [MC-82853](https://bugs.mojang.com/browse/MC-82853) Dragon stuck on bedrock
+- [MC-82832](https://bugs.mojang.com/browse/MC-82832) end portal spawning incorrectly
+- [MC-82833](https://bugs.mojang.com/browse/MC-82833) shulker projectile follows player in creative
+- [MC-82816](https://bugs.mojang.com/browse/MC-82816) no dragon spawned
+- [MC-83239](https://bugs.mojang.com/browse/MC-83239) Additional Ender Dragons don't display boss health bar
 - [MC-83001](https://bugs.mojang.com/browse/MC-83001) two dragons
 - [MC-83039](https://bugs.mojang.com/browse/MC-83039) end city spawning with items on ground
 - [MC-82939](https://bugs.mojang.com/browse/MC-82939) shulkers in minecarts teleporting
-- [MC-83309](https://bugs.mojang.com/browse/MC-83309) opening inventory on horse crash
-- [MC-82955](https://bugs.mojang.com/browse/MC-82955) alex player model offhand items
-- [MC-83185](https://bugs.mojang.com/browse/MC-83185) bobber disappears when fishing with off hand
-- [MC-83196](https://bugs.mojang.com/browse/MC-83196) thin pressure plate models
-- [MC-83301](https://bugs.mojang.com/browse/MC-83301) spectral arrows and team outlines on items
+- [MC-82870](https://bugs.mojang.com/browse/MC-82870) chorus plant hitbox
+- [MC-82855](https://bugs.mojang.com/browse/MC-82855) invisible shulkers
 - [MC-83191](https://bugs.mojang.com/browse/MC-83191) dead dragon flying around
 - [MC-83241](https://bugs.mojang.com/browse/MC-83241) chorus flower wrong texture
+
+#### Texture/rendering
+- [MC-82839](https://bugs.mojang.com/browse/MC-82839) black screen in 15w31a
+- [MC-83141](https://bugs.mojang.com/browse/MC-83141) clock and compass show default location when being moved
+- [MC-82821](https://bugs.mojang.com/browse/MC-82821) levitation potion name
+- [MC-83004](https://bugs.mojang.com/browse/MC-83004) skin backwards in inventory
+- [MC-82938](https://bugs.mojang.com/browse/MC-82938) Enderman arm/head misplaced
+- [MC-82811](https://bugs.mojang.com/browse/MC-82811) creative eating glitch
+- [MC-82828](https://bugs.mojang.com/browse/MC-82828) stairs rendering
+- [MC-82842](https://bugs.mojang.com/browse/MC-82842) mining animation plays on *all* players
+- [MC-82846](https://bugs.mojang.com/browse/MC-82846) enchant effect outlines full inventory tile
+- [MC-82847](https://bugs.mojang.com/browse/MC-82847) achievements outside the achievement window
+- [MC-82863](https://bugs.mojang.com/browse/MC-82863) outline effect and held items
+- [MC-82864](https://bugs.mojang.com/browse/MC-82864) items floating in hands
+- [MC-82925](https://bugs.mojang.com/browse/MC-82925) Pre-existing potions/bottles missing texture in snapshot
+- [MC-83196](https://bugs.mojang.com/browse/MC-83196) thin pressure plate models\
+- [MC-83187](https://bugs.mojang.com/browse/MC-83187) Quote marks on signs
+
+#### Commands
+- [MC-83041](https://bugs.mojang.com/browse/MC-83041) /replaceitem doesn’t work properly
+- [MC-82876](https://bugs.mojang.com/browse/MC-82876) Hiding particles does not work
+- [MC-58034](https://bugs.mojang.com/browse/MC-58034) Cannot give portal blocks
+
+#### JSON/Kicks/Crashes
+- [MC-82819](https://bugs.mojang.com/browse/MC-82819) levitation kicks players
+- [MC-83284](https://bugs.mojang.com/browse/MC-83284) Strict JSON causes client exception in multiplayer
+- [MC-82907](https://bugs.mojang.com/browse/MC-82907) books displaying json stuff
+- [MC-82968](https://bugs.mojang.com/browse/MC-82968) Kicked from server by signs
+- [MC-83309](https://bugs.mojang.com/browse/MC-83309) opening inventory on horse crash
+
+#### Other
+- [MC-82835](https://bugs.mojang.com/browse/MC-82835) creative pearl usage decreases item count temporarily
+- [MC-83336](https://bugs.mojang.com/browse/MC-83336) enchanted items not getting enchants
+- [MC-82901](https://bugs.mojang.com/browse/MC-82901) path block height
+- [MC-82986](https://bugs.mojang.com/browse/MC-82986) Items with same ID but different NBT will stack
+- [MC-82971](https://bugs.mojang.com/browse/MC-82971) wither attacks before initial explosion
+
+#### Invalids
+- [MC-82854](https://bugs.mojang.com/browse/MC-82854) stair orientation
+- [MC-82875](https://bugs.mojang.com/browse/MC-82875) swords still block
+- [MC-3461](https://bugs.mojang.com/browse/MC-3461) Player-built end portals won't activate (old report)
+
+
 
 ## 1.8.4
 
