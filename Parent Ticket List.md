@@ -65,6 +65,7 @@ Click [here](https://github.com/Mojira/Staff-Resources/blob/master/Parent%20Tick
 ## 1.8.4
 
 - [MC-79972](https://bugs.mojang.com/browse/MC-79972) targeting with only y and dy doesn't work in command block
+- [MC-83015](https://bugs.mojang.com/browse/MC-83015) rails not connecting nicely
 
 ## 1.8.2-pre
 
