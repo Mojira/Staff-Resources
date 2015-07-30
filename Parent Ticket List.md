@@ -81,6 +81,7 @@ Click [here](https://github.com/Mojira/Staff-Resources/blob/master/Parent%20Tick
 - [MC-83471](https://bugs.mojang.com/browse/MC-83471) Custom potion effects do not work with splash potions
 - [MC-83468](https://bugs.mojang.com/browse/MC-83468) Lead Duplication
 - [MC-83369](https://bugs.mojang.com/browse/MC-83369) Levitation does not work in water
+- [MC-83015](https://bugs.mojang.com/browse/MC-83015) rails not connecting nicely
 
 #### Invalids
 - [MC-82854](https://bugs.mojang.com/browse/MC-82854) stair orientation
@@ -92,7 +93,6 @@ Click [here](https://github.com/Mojira/Staff-Resources/blob/master/Parent%20Tick
 ## 1.8.4
 
 - [MC-79972](https://bugs.mojang.com/browse/MC-79972) targeting with only y and dy doesn't work in command block
-- [MC-83015](https://bugs.mojang.com/browse/MC-83015) rails not connecting nicely
 
 ## 1.8.2-pre
 
