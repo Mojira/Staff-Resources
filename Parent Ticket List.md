@@ -47,6 +47,20 @@ Click [here](https://github.com/Mojira/Staff-Resources/blob/master/Parent%20Tick
 - [MC-58034](https://bugs.mojang.com/browse/MC-58034) Cannot give portal blocks
 - [MC-83187](https://bugs.mojang.com/browse/MC-83187) Quote marks on signs
 - [MC-82968](https://bugs.mojang.com/browse/MC-82968) Kicked from server by signs
+- [MC-82874](https://bugs.mojang.com/browse/MC-82874) main hand setting is lost on death
+- [MC-82876](https://bugs.mojang.com/browse/MC-82876) hide particles not working
+- [MC-82965](https://bugs.mojang.com/browse/MC-82965) main hand swings in f5 when using off hand
+- [MC-82971](https://bugs.mojang.com/browse/MC-82971) wither attacks before initial explosion
+- [MC-83001](https://bugs.mojang.com/browse/MC-83001) two dragons
+- [MC-83039](https://bugs.mojang.com/browse/MC-83039) end city spawning with items on ground
+- [MC-82939](https://bugs.mojang.com/browse/MC-82939) shulkers in minecarts teleporting
+- [MC-83309](https://bugs.mojang.com/browse/MC-83309) opening inventory on horse crash
+- [MC-82955](https://bugs.mojang.com/browse/MC-82955) alex player model offhand items
+- [MC-83185](https://bugs.mojang.com/browse/MC-83185) bobber disappears when fishing with off hand
+- [MC-83196](https://bugs.mojang.com/browse/MC-83196) thin pressure plate models
+- [MC-83301](https://bugs.mojang.com/browse/MC-83301) spectral arrows and team outlines on items
+- [MC-83191](https://bugs.mojang.com/browse/MC-83191) dead dragon flying around
+- [MC-83241](https://bugs.mojang.com/browse/MC-83241) chorus flower wrong texture
 
 ## 1.8.4
 
