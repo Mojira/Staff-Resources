@@ -58,7 +58,7 @@ Click [here](https://github.com/Mojira/Staff-Resources/blob/master/Parent%20Tick
 - [MC-83196](https://bugs.mojang.com/browse/MC-83196) thin pressure plate models\
 - [MC-83187](https://bugs.mojang.com/browse/MC-83187) Quote marks on signs
 - [MC-83911](https://bugs.mojang.com/browse/MC-83911) outline doesn't show for some people
-- 
+
 #### Commands
 - [MC-83041](https://bugs.mojang.com/browse/MC-83041) /replaceitem doesn’t work properly
 - [MC-82876](https://bugs.mojang.com/browse/MC-82876) Hiding particles does not work
