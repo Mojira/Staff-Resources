@@ -84,6 +84,7 @@ Click [here](https://github.com/Mojira/Staff-Resources/blob/master/Parent%20Tick
 - [MC-83468](https://bugs.mojang.com/browse/MC-83468) Lead Duplication
 - [MC-83369](https://bugs.mojang.com/browse/MC-83369) Levitation does not work in water
 - [MC-83015](https://bugs.mojang.com/browse/MC-83015) rails not connecting nicely
+- [MC-83079](https://bugs.mojang.com/browse/MC-83079) chest held awkwardly
 
 #### Invalids
 - [MC-82854](https://bugs.mojang.com/browse/MC-82854) stair orientation
