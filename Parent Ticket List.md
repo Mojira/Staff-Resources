@@ -12,17 +12,16 @@ Click [here](https://github.com/Mojira/Staff-Resources/blob/master/Parent%20Tick
 
 ## 15w31a
 
-Todo:
-MC-82849: bow doesnt work in offhand slot
-MC-82882: going to the end takes to same coordinates as overworld (can't reproduce)
-MC-82884: gateway takes to empty region
-MC-82903: using a bow without arrows causing the item to bob
-MC-82943: Witch holds potions like players
-MC-82944: Endermen become hostile when looking below their eyes
-MC-82945: Log spam Tried to add duplicate UUID
-MC-82957: setblock gateway beacon colour issues
-MC-82961: Standing in dragon head (collision)
-MC-82969: Corrupt pack.mcmeta causes crash
+- [MC-82849](https://bugs.mojang.com/browse/MC-82849) bow doesnt work in offhand slot
+- [MC-82882](https://bugs.mojang.com/browse/MC-82882) going to the end takes to same coordinates as overworld (can't reproduce)
+- [MC-82884](https://bugs.mojang.com/browse/MC-82884) gateway takes to empty region
+- [MC-82903](https://bugs.mojang.com/browse/MC-82903) using a bow without arrows causing the item to bob
+- [MC-82943](https://bugs.mojang.com/browse/MC-82943) Witch holds potions like players
+- [MC-82944](https://bugs.mojang.com/browse/MC-82944) Endermen become hostile when looking below their eyes
+- [MC-82945](https://bugs.mojang.com/browse/MC-82945) Log spam Tried to add duplicate UUID
+- [MC-82957](https://bugs.mojang.com/browse/MC-82957) setblock gateway beacon colour issues
+- [MC-82961](https://bugs.mojang.com/browse/MC-82961) Standing in dragon head (collision)
+- [MC-82969](https://bugs.mojang.com/browse/MC-82969) Corrupt pack.mcmeta causes crash
 
 #### Arrow
 
