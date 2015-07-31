@@ -12,6 +12,20 @@ Click [here](https://github.com/Mojira/Staff-Resources/blob/master/Parent%20Tick
 
 ## 15w31a
 
+Todo
+MC-83002: Villagers don't take beetroot
+MC-83013: Obsidian towers are out of place
+MC-83017: Shulkers don't despawn in peaceful mode
+MC-83030: Shulker death has no particles
+MC-83040: Two-handed map bug
+MC-83084: Invisibility arrow still shows arrow
+MC-83095: Iron bar missing texture on face
+MC-83099: Map partially off screen with certain resolutions
+MC-83105: Off-hand item shows in f5 mode when drawing bow
+MC-83107: Arrows shot above shulkers act incorrectly
+MC-83137: Skeleton arm moves into body
+
+
 - [MC-82849](https://bugs.mojang.com/browse/MC-82849) bow doesnt work in offhand slot
 - [MC-82882](https://bugs.mojang.com/browse/MC-82882) going to the end takes to same coordinates as overworld (can't reproduce)
 - [MC-82884](https://bugs.mojang.com/browse/MC-82884) gateway takes to empty region
