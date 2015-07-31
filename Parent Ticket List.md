@@ -24,16 +24,9 @@ Todo
 - [MC-83105](https://bugs.mojang.com/browse/MC-83105) Off-hand item shows in f5 mode when drawing bow
 - [MC-83107](https://bugs.mojang.com/browse/MC-83107) Arrows shot above shulkers act incorrectly
 - [MC-83137](https://bugs.mojang.com/browse/MC-83137) Skeleton arm moves into body
-
-
-- [MC-82882](https://bugs.mojang.com/browse/MC-82882) going to the end takes to same coordinates as overworld (can't reproduce)
-- [MC-82884](https://bugs.mojang.com/browse/MC-82884) gateway takes to empty region
 - [MC-82903](https://bugs.mojang.com/browse/MC-82903) using a bow without arrows causing the item to bob
 - [MC-82943](https://bugs.mojang.com/browse/MC-82943) Witch holds potions like players
-- [MC-82944](https://bugs.mojang.com/browse/MC-82944) Endermen become hostile when looking below their eyes
-- [MC-82945](https://bugs.mojang.com/browse/MC-82945) Log spam Tried to add duplicate UUID
-- [MC-82957](https://bugs.mojang.com/browse/MC-82957) setblock gateway beacon colour issues
-- [MC-82961](https://bugs.mojang.com/browse/MC-82961) Standing in dragon head (collision)
+- [MC-82945](https://bugs.mojang.com/browse/MC-82945) Log spam tried to add duplicate UUID
 - [MC-82969](https://bugs.mojang.com/browse/MC-82969) Corrupt pack.mcmeta causes crash
 
 #### Arrow
@@ -74,6 +67,10 @@ Todo
 - [MC-84035](https://bugs.mojang.com/browse/MC-84035) dead dragon flying around / doesn't die when not on portal
 - [MC-83241](https://bugs.mojang.com/browse/MC-83241) chorus flower wrong texture
 - [MC-84198](https://bugs.mojang.com/browse/MC-84198) chorus fruit can tp to top of nether
+- [MC-82961](https://bugs.mojang.com/browse/MC-82961) Standing in dragon head (collision)
+- [MC-82944](https://bugs.mojang.com/browse/MC-82944) Endermen become hostile when looking below their eyes
+- [MC-82884](https://bugs.mojang.com/browse/MC-82884) gateway takes to empty region
+- [MC-82882](https://bugs.mojang.com/browse/MC-82882) going to the end takes to same coordinates as overworld (can't reproduce)
 
 #### Texture/rendering
 
@@ -93,6 +90,7 @@ Todo
 - [MC-83196](https://bugs.mojang.com/browse/MC-83196) thin pressure plate models\
 - [MC-83187](https://bugs.mojang.com/browse/MC-83187) Quote marks on signs
 - [MC-83911](https://bugs.mojang.com/browse/MC-83911) outline doesn't show for some people
+- [MC-82957](https://bugs.mojang.com/browse/MC-82957) setblock gateway beacon colour issues
 
 #### Commands
 
