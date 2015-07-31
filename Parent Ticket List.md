@@ -354,3 +354,5 @@ First, open the document editor
 Then commit your changes
 
 ![Example 2](http://imgur.com/A7ofR8H.png)
+
+NOTICE: FOLLOW FORMATTING EXACTLY, OR WEB PARSING WILL BREAK. DO NOT USE A - AT THE BEGINNING OF THE LINE TO HAVE WEB PARSING SKIP THE LINE
