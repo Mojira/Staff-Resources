@@ -8,6 +8,7 @@ Click [here](https://github.com/Mojira/Staff-Resources/blob/master/Parent%20Tick
 
 - [MC-83871](https://bugs.mojang.com/browse/MC-83871) water arrow name
 - [MC-83897](https://bugs.mojang.com/browse/MC-83897) Generated/Found Enchanted Books have no enchantments
+- [MC-84275](https://bugs.mojang.com/browse/MC-84275) shulker wont ride in mine cart (W.A.I. resolved)
 
 ## 15w31a
 
