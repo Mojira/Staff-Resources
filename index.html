@@ -81,7 +81,7 @@
 		});
 		$(document).on('click','.messageText',function(){
 			var field = $('<input type="text">');
-			field.val('Duplicate of ' + $(this).attr('key') + ' &ndash; If you [have not|http://i.imgur.com/M063ze8.png], please use the [search function|https://bugs.mojang.com/issues/?jql=project%20%3D%20MC] in the future, to see if your bug has already been submitted.');
+			field.val('Duplicate of ' + $(this).attr('key') + ' - If you [have not|http://i.imgur.com/M063ze8.png], please use the [search function|https://bugs.mojang.com/issues/?jql=project%20%3D%20MC] in the future, to see if your bug has already been submitted.');
 			$(this).parent().parent().html(field);
 			field.select();
 		});
