@@ -39,7 +39,7 @@ Click [here](https://github.com/Mojira/Staff-Resources/blob/master/Parent%20Tick
 - [MC-83702](https://bugs.mojang.com/browse/MC-83702) Additional Dragons drop eggs
 - [MC-83001](https://bugs.mojang.com/browse/MC-83001) two dragons
 - [MC-83039](https://bugs.mojang.com/browse/MC-83039) end city spawning with items on ground
-- [MC-82939](https://bugs.mojang.com/browse/MC-82939) shulkers in minecarts teleporting
+- [MC-84191](https://bugs.mojang.com/browse/MC-84191) shulkers in minecarts teleporting
 - [MC-82870](https://bugs.mojang.com/browse/MC-82870) chorus plant hitbox
 - [MC-82855](https://bugs.mojang.com/browse/MC-82855) invisible shulkers
 - [MC-84035](https://bugs.mojang.com/browse/MC-84035) dead dragon flying around
