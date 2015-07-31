@@ -3,16 +3,17 @@ Click [here](https://github.com/Mojira/Staff-Resources/blob/master/Parent%20Tick
 ## 15w31c
 
 - [MC-84253](https://bugs.mojang.com/browse/MC-84253) potions / arrow tips black
+- [MC-84275](https://bugs.mojang.com/browse/MC-84275) shulker wont ride in mine cart (W.A.I. resolved)
 
 ## 15w31b
 
 - [MC-83871](https://bugs.mojang.com/browse/MC-83871) water arrow name
 - [MC-83897](https://bugs.mojang.com/browse/MC-83897) Generated/Found Enchanted Books have no enchantments
-- [MC-84275](https://bugs.mojang.com/browse/MC-84275) shulker wont ride in mine cart (W.A.I. resolved)
 
 ## 15w31a
 
 #### Arrow
+
 - [MC-82809](https://bugs.mojang.com/browse/MC-82809) spectral arrow texture missing
 - [MC-82859](https://bugs.mojang.com/browse/MC-82859) Arrows give stack when picked up
 - [MC-82808](https://bugs.mojang.com/browse/MC-82808) Arrow as potion or bottle name
@@ -30,8 +31,10 @@ Click [here](https://github.com/Mojira/Staff-Resources/blob/master/Parent%20Tick
 - [MC-82965](https://bugs.mojang.com/browse/MC-82965) main hand swings in f5 when using off hand
 - [MC-82955](https://bugs.mojang.com/browse/MC-82955) alex player model offhand items
 - [MC-83185](https://bugs.mojang.com/browse/MC-83185) bobber disappears when fishing with off hand
+- [MC-82923](https://bugs.mojang.com/browse/MC-82923) no bow in offhand slot
 
-#### End/Dragon/Shulker
+#### End/Dragon/Shulker/Chorus Stuff
+
 - [MC-82853](https://bugs.mojang.com/browse/MC-82853) Dragon stuck on bedrock
 - [MC-82832](https://bugs.mojang.com/browse/MC-82832) end portal spawning incorrectly
 - [MC-82833](https://bugs.mojang.com/browse/MC-82833) shulker projectile follows player in creative
@@ -45,8 +48,10 @@ Click [here](https://github.com/Mojira/Staff-Resources/blob/master/Parent%20Tick
 - [MC-82855](https://bugs.mojang.com/browse/MC-82855) invisible shulkers
 - [MC-84035](https://bugs.mojang.com/browse/MC-84035) dead dragon flying around
 - [MC-83241](https://bugs.mojang.com/browse/MC-83241) chorus flower wrong texture
+- [MC-84198](https://bugs.mojang.com/browse/MC-84198) chorus fruit can tp to top of nether
 
 #### Texture/rendering
+
 - [MC-82839](https://bugs.mojang.com/browse/MC-82839) black screen in 15w31a
 - [MC-83141](https://bugs.mojang.com/browse/MC-83141) clock and compass show default location when being moved
 - [MC-82821](https://bugs.mojang.com/browse/MC-82821) levitation potion name
@@ -65,11 +70,13 @@ Click [here](https://github.com/Mojira/Staff-Resources/blob/master/Parent%20Tick
 - [MC-83911](https://bugs.mojang.com/browse/MC-83911) outline doesn't show for some people
 
 #### Commands
+
 - [MC-83041](https://bugs.mojang.com/browse/MC-83041) /replaceitem doesn’t work properly
 - [MC-82876](https://bugs.mojang.com/browse/MC-82876) Hiding particles does not work
 - [MC-58034](https://bugs.mojang.com/browse/MC-58034) Cannot give portal blocks
 
 #### JSON/Kicks/Crashes
+
 - [MC-82819](https://bugs.mojang.com/browse/MC-82819) levitation kicks players
 - [MC-83284](https://bugs.mojang.com/browse/MC-83284) Strict JSON causes client exception in multiplayer
 - [MC-82907](https://bugs.mojang.com/browse/MC-82907) books displaying json stuff
@@ -79,6 +86,7 @@ Click [here](https://github.com/Mojira/Staff-Resources/blob/master/Parent%20Tick
 - [MC-82880](https://bugs.mojang.com/browse/MC-82880) Cocoa beans crash
 
 #### Other
+
 - [MC-82835](https://bugs.mojang.com/browse/MC-82835) creative pearl usage decreases item count temporarily
 - [MC-83336](https://bugs.mojang.com/browse/MC-83336) enchanted items not getting enchants
 - [MC-82901](https://bugs.mojang.com/browse/MC-82901) path block height
