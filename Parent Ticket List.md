@@ -26,7 +26,6 @@ Todo
 - [MC-83137](https://bugs.mojang.com/browse/MC-83137) Skeleton arm moves into body
 
 
-- [MC-82849](https://bugs.mojang.com/browse/MC-82849) bow doesnt work in offhand slot
 - [MC-82882](https://bugs.mojang.com/browse/MC-82882) going to the end takes to same coordinates as overworld (can't reproduce)
 - [MC-82884](https://bugs.mojang.com/browse/MC-82884) gateway takes to empty region
 - [MC-82903](https://bugs.mojang.com/browse/MC-82903) using a bow without arrows causing the item to bob
@@ -49,6 +48,7 @@ Todo
 - [MC-83871](https://bugs.mojang.com/browse/MC-83871) water arrow name
 
 #### Off-hand
+
 - [MC-82896](https://bugs.mojang.com/browse/MC-82896) Clear doesn't work (with offhand) /clear
 - [MC-82824](https://bugs.mojang.com/browse/MC-82824) Items stack to inventory instead of offhand
 - [MC-82995](https://bugs.mojang.com/browse/MC-82995) Blocking with both swords
