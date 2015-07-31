@@ -144,7 +144,8 @@ Click [here](https://github.com/Mojira/Staff-Resources/blob/master/Parent%20Tick
 
 - [MC-66166](https://bugs.mojang.com/browse/MC-66166) New colored wood doors drop oak door when broken
 - [MC-66163](https://bugs.mojang.com/browse/MC-66163) Pick block key on new colored wood gives oak door
-Snapshot 14w32b
+
+## Snapshot 14w32b
 
 - [MC-65884](https://bugs.mojang.com/browse/MC-65884) Fence Recipe Change
 - [MC-65872](https://bugs.mojang.com/browse/MC-65872) No book on enchantment table
