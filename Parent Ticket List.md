@@ -1,5 +1,9 @@
 Click [here](https://github.com/Mojira/Staff-Resources/blob/master/Parent%20Ticket%20List.md#editing-this-document) for editing instructions
 
+## 15w31c
+
+- [MC-84253](https://bugs.mojang.com/browse/MC-84253) potions / arrow tips black
+
 ## 15w31b
 
 - [MC-83871](https://bugs.mojang.com/browse/MC-83871) water arrow name
