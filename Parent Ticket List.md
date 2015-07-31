@@ -86,6 +86,7 @@ Click [here](https://github.com/Mojira/Staff-Resources/blob/master/Parent%20Tick
 - [MC-83369](https://bugs.mojang.com/browse/MC-83369) Levitation does not work in water
 - [MC-83015](https://bugs.mojang.com/browse/MC-83015) rails not connecting nicely
 - [MC-83079](https://bugs.mojang.com/browse/MC-83079) chest held awkwardly
+- [MC-84159](https://bugs.mojang.com/browse/MC-84159) swords/tools not in same position
 
 #### Invalids
 - [MC-82854](https://bugs.mojang.com/browse/MC-82854) stair orientation
