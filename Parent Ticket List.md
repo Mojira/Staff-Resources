@@ -58,7 +58,7 @@ MC-82969: Corrupt pack.mcmeta causes crash
 - [MC-84191](https://bugs.mojang.com/browse/MC-84191) shulkers in minecarts teleporting
 - [MC-82870](https://bugs.mojang.com/browse/MC-82870) chorus plant hitbox
 - [MC-82855](https://bugs.mojang.com/browse/MC-82855) invisible shulkers
-- [MC-84035](https://bugs.mojang.com/browse/MC-84035) dead dragon flying around
+- [MC-84035](https://bugs.mojang.com/browse/MC-84035) dead dragon flying around / doesn't die when not on portal
 - [MC-83241](https://bugs.mojang.com/browse/MC-83241) chorus flower wrong texture
 - [MC-84198](https://bugs.mojang.com/browse/MC-84198) chorus fruit can tp to top of nether
 
