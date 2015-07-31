@@ -12,23 +12,6 @@ Click [here](https://github.com/Mojira/Staff-Resources/blob/master/Parent%20Tick
 
 ## 15w31a
 
-Todo
-- [MC-83002](https://bugs.mojang.com/browse/MC-83002) Villagers don't take beetroot
-- [MC-83013](https://bugs.mojang.com/browse/MC-83013) Obsidian towers are out of place
-- [MC-83017](https://bugs.mojang.com/browse/MC-83017) Shulkers don't despawn in peaceful mode
-- [MC-83030](https://bugs.mojang.com/browse/MC-83030) Shulker death has no particles
-- [MC-83040](https://bugs.mojang.com/browse/MC-83040) Two-handed map bug
-- [MC-83084](https://bugs.mojang.com/browse/MC-83084) Invisibility arrow still shows arrow
-- [MC-83095](https://bugs.mojang.com/browse/MC-83095) Iron bar missing texture on face
-- [MC-83099](https://bugs.mojang.com/browse/MC-83099) Map partially off screen with certain resolutions
-- [MC-83105](https://bugs.mojang.com/browse/MC-83105) Off-hand item shows in f5 mode when drawing bow
-- [MC-83107](https://bugs.mojang.com/browse/MC-83107) Arrows shot above shulkers act incorrectly
-- [MC-83137](https://bugs.mojang.com/browse/MC-83137) Skeleton arm moves into body
-- [MC-82903](https://bugs.mojang.com/browse/MC-82903) using a bow without arrows causing the item to bob
-- [MC-82943](https://bugs.mojang.com/browse/MC-82943) Witch holds potions like players
-- [MC-82945](https://bugs.mojang.com/browse/MC-82945) Log spam tried to add duplicate UUID
-- [MC-82969](https://bugs.mojang.com/browse/MC-82969) Corrupt pack.mcmeta causes crash
-
 #### Arrow
 
 - [MC-82809](https://bugs.mojang.com/browse/MC-82809) spectral arrow texture missing
@@ -39,6 +22,7 @@ Todo
 - [MC-83271](https://bugs.mojang.com/browse/MC-83271) Spectral Arrow doesn't work on Ender Dragon
 - [MC-83301](https://bugs.mojang.com/browse/MC-83301) spectral arrows and team outlines on items
 - [MC-83871](https://bugs.mojang.com/browse/MC-83871) water arrow name
+- [MC-83084](https://bugs.mojang.com/browse/MC-83084) Invisibility arrow still shows arrow
 
 #### Off-hand
 
@@ -50,6 +34,8 @@ Todo
 - [MC-82955](https://bugs.mojang.com/browse/MC-82955) alex player model offhand items
 - [MC-83185](https://bugs.mojang.com/browse/MC-83185) bobber disappears when fishing with off hand
 - [MC-82923](https://bugs.mojang.com/browse/MC-82923) no bow in offhand slot
+- [MC-83105](https://bugs.mojang.com/browse/MC-83105) Off-hand item shows in f5 mode when drawing bow
+- [MC-83099](https://bugs.mojang.com/browse/MC-83099) Map partially off screen with certain resolutions
 
 #### End/Dragon/Shulker/Chorus Stuff
 
@@ -71,6 +57,10 @@ Todo
 - [MC-82944](https://bugs.mojang.com/browse/MC-82944) Endermen become hostile when looking below their eyes
 - [MC-82884](https://bugs.mojang.com/browse/MC-82884) gateway takes to empty region
 - [MC-82882](https://bugs.mojang.com/browse/MC-82882) going to the end takes to same coordinates as overworld (can't reproduce)
+- [MC-83013](https://bugs.mojang.com/browse/MC-83013) Obsidian towers are out of place
+- [MC-83017](https://bugs.mojang.com/browse/MC-83017) Shulkers don't despawn in peaceful mode
+- [MC-83030](https://bugs.mojang.com/browse/MC-83030) Shulker death has no particles
+- [MC-83107](https://bugs.mojang.com/browse/MC-83107) Arrows shot above shulkers act incorrectly
 
 #### Texture/rendering
 
@@ -124,8 +114,17 @@ Todo
 - [MC-83079](https://bugs.mojang.com/browse/MC-83079) chest held awkwardly
 - [MC-84159](https://bugs.mojang.com/browse/MC-84159) swords/tools not in same position
 - [MC-83729](https://bugs.mojang.com/browse/MC-83729) can pick-block paths
+- [MC-83040](https://bugs.mojang.com/browse/MC-83040) Two-handed map bug
+- [MC-83002](https://bugs.mojang.com/browse/MC-83002) Villagers don't take beetroot
+- [MC-83095](https://bugs.mojang.com/browse/MC-83095) Iron bar missing texture on face
+- [MC-83137](https://bugs.mojang.com/browse/MC-83137) Skeleton arm moves into body
+- [MC-82903](https://bugs.mojang.com/browse/MC-82903) using a bow without arrows causing the item to bob
+- [MC-82943](https://bugs.mojang.com/browse/MC-82943) Witch holds potions like players
+- [MC-82945](https://bugs.mojang.com/browse/MC-82945) Log spam tried to add duplicate UUID
+- [MC-82969](https://bugs.mojang.com/browse/MC-82969) Corrupt pack.mcmeta causes crash
 
 #### Invalids
+
 - [MC-82854](https://bugs.mojang.com/browse/MC-82854) stair orientation
 - [MC-82875](https://bugs.mojang.com/browse/MC-82875) swords still block
 - [MC-3461](https://bugs.mojang.com/browse/MC-3461) Player-built end portals won't activate (old report)
