@@ -7,13 +7,85 @@
 
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css">
 
-	<script src="//code.jquery.com/jquery-1.11.3.min.js"></script>
-	<script src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+	<script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
+	<script src="https://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
 
 	<!-- Latest compiled and minified JavaScript -->
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+
+	<!-- https://raw.githubusercontent.com/Mojira/Staff-Resources/master/Parent%20Ticket%20List.md -->
+
+	<script>
+		var db = [];
+		function getURL(url) {
+			return $.ajax({
+				type: "GET",
+				url: url,
+				cache: false,
+				async: false
+			}).responseText;
+		}
+		function getDB() {
+			var dbStringOriginal = getURL('https://raw.githubusercontent.com/Mojira/Staff-Resources/master/Parent%20Ticket%20List.md');
+			var dbArrayOriginal = dbStringOriginal.split('\n');
+			var db = [];
+			for (var i = 0; i < dbArrayOriginal.length; i++) {
+				var item = dbArrayOriginal[i];
+
+				if (item[0] == '-') {
+					var object = {}
+
+					var regExp = /^- \[([^\]]+)\]\(([^\)]+)\) (.*)$/;
+					///
+					var matches = regExp.exec(item);
+					
+					//matches[1] contains the value between the parentheses
+					console.log(matches);
+
+					object["key"] = matches[1];
+					object["description"] = matches[3];
+
+					db.push(object)
+				}
+			}
+			return db;
+		}
+	</script>
 </head>
 <body>
-Testing testing
+	<div class="container" style="padding-top:20px">
+		<div class="row">
+			<div class="col-md-6 col-md-offset-3">
+				<input type="search" placeholder="Search..." id="search" class="form-control">
+			</div>
+		</div>
+		<div id="output"></div>
+	</div>
+	<script>
+		db = getDB();
+		$('#search').on('keyup',function(){
+			var searchTerm = $('#search').val();
+			$('#output').html('');
+			for (var i = 0; i < db.length; i++) {
+				var dbi = db[i];
+				if (dbi.key.indexOf(searchTerm) != -1 || dbi.description.indexOf(searchTerm) != -1) {
+					var row = $('<div class="row">');
+					var col1 = $('<div class="col-md-2 col-md-offset-3">');
+					var col2 = $('<div class="col-md-7">');
+					col1.html('<a href="https://bugs.mojang.com/browse/'+dbi.key+'">'+dbi.key+'</a> <span>(<a href="#" class="messageText" key="'+dbi.key+'">Copy</a>)</span>');
+					col2.html(dbi.description);
+					row.append(col1).append(col2);
+					$('#output').append(row);
+				}
+			};
+		});
+		$(document).on('click','.messageText',function(){
+			var field = $('<input type="text">');
+			field.val('Duplicate of ' + $(this).attr('key') + ' &ndash; If you [have not|http://i.imgur.com/M063ze8.png], please use the [search function|https://bugs.mojang.com/issues/?jql=project%20%3D%20MC] in the future, to see if your bug has already been submitted.');
+			$(this).parent().parent().html(field);
+			field.select();
+		});
+	</script>
+
 </body>
 </html>
