@@ -3,7 +3,7 @@ Click [here](https://github.com/Mojira/Staff-Resources/blob/master/Parent%20Tick
 ## 15w31c
 
 - [MC-84253](https://bugs.mojang.com/browse/MC-84253) potions / arrow tips black
-- [MC-84275](https://bugs.mojang.com/browse/MC-84275) shulker wont ride in mine cart (W.A.I. resolved)
+- [MC-84275](https://bugs.mojang.com/browse/MC-84275) shulker wont ride in mine cart (WAI)
 
 ## 15w31b
 
