@@ -68,7 +68,7 @@
 			$('#output').html('');
 			for (var i = 0; i < db.length; i++) {
 				var dbi = db[i];
-				if (dbi.key.indexOf(searchTerm) != -1 || dbi.description.indexOf(searchTerm) != -1) {
+				if (dbi.key.toLowerCase().indexOf(searchTerm.toLowerCase()) != -1 || dbi.description.toLowerCase().indexOf(searchTerm.toLowerCase()) != -1) {
 					var row = $('<div class="row">');
 					var col1 = $('<div class="col-md-2 col-md-offset-3">');
 					var col2 = $('<div class="col-md-7">');
@@ -80,11 +80,24 @@
 			};
 		});
 		$(document).on('click','.messageText',function(){
-			var field = $('<input type="text">');
-			field.val('Duplicate of ' + $(this).attr('key') + ' - If you [have not|http://i.imgur.com/M063ze8.png], please use the [search function|https://bugs.mojang.com/issues/?jql=project%20%3D%20MC] in the future, to see if your bug has already been submitted.');
-			$(this).parent().parent().html(field);
-			field.select();
+			var field1 = $('<input class="copyfield" type="text">');
+			var field2 = $('<input class="copyfield" type="text">');
+			field1.val($(this).attr('key'));
+			field2.val('Duplicate of ' + $(this).attr('key') + ' - If you [have not|http://i.imgur.com/M063ze8.png], please use the [search function|https://bugs.mojang.com/issues/?jql=project%20%3D%20MC] in the future, to see if your bug has already been submitted.');
+			var row = $('<div class="row">');
+			var col1 = $('<div class="col-md-2 col-md-offset-3">');
+			var col2 = $('<div class="col-md-7">');
+			col1.append(field1);
+			col2.append(field2);
+			row.append(col1).append(col2);
+			$(this).parent().parent().parent().after(row);
+			field2.select();
 		});
+		$(document).on('click','.copyfield',function(){
+			$(this).select();
+		});
+
+		$('#search').keyup();
 	</script>
 
 </body>
