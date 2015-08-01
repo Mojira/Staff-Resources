@@ -336,7 +336,7 @@ Click [here](https://github.com/Mojira/Staff-Resources/blob/master/Parent%20Tick
 - [MC-22927](https://bugs.mojang.com/browse/MC-22927) Animals Run Forever
 - [MC-1797](https://bugs.mojang.com/browse/MC-1797) Creative Inventory Sort Acacia Dark Oak New Logs Blocks
 - [MC-2301](https://bugs.mojang.com/browse/MC-2301) Sprint 1 block gap
-- [MC-35026](https://bugs.mojang.com/browse/MC-35026) Video settings don’t save
+- [MC-3892](https://bugs.mojang.com/browse/MC-3892) Video settings don’t save
 - [MC-68497](https://bugs.mojang.com/browse/MC-68497) Copy / Cut Clears Clipboard With No Selection
 - [MC-679](https://bugs.mojang.com/browse/MC-679) Compass points wrong direction after returning from nether
 - [MC-4923](https://bugs.mojang.com/browse/MC-4923) Flint and Steel+Blocks that can't be set on fire
