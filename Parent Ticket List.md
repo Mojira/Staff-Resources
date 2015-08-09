@@ -122,6 +122,7 @@ Click [here](https://github.com/Mojira/Staff-Resources/blob/master/Parent%20Tick
 - [MC-82943](https://bugs.mojang.com/browse/MC-82943) Witch holds potions like players
 - [MC-82945](https://bugs.mojang.com/browse/MC-82945) Log spam tried to add duplicate UUID
 - [MC-82969](https://bugs.mojang.com/browse/MC-82969) Corrupt pack.mcmeta causes crash
+- [MC-83350](https://bugs.mojang.com/browse/MC-83350) Entities entering nether portals disappear instead of teleport
 
 #### Invalids
 
