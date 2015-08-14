@@ -8,6 +8,7 @@ Click [here](https://github.com/Mojira/Staff-Resources/blob/master/Parent%20Tick
 - [MC-86141](https://bugs.mojang.com/browse/MC-86141) no left click with shields
 - [MC-86144](https://bugs.mojang.com/browse/MC-86144) unable to decorate shield without a banner (aka cannot craft a shield like a banner)
 - [MC-86151](https://bugs.mojang.com/browse/MC-86151) shields in head slot
+- [MC-86168](https://bugs.mojang.com/browse/MC-86168) enchanted shields
 
 
 ## 15w31c
