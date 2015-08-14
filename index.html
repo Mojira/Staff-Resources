@@ -29,6 +29,13 @@
 			var dbStringOriginal = getURL('https://raw.githubusercontent.com/Mojira/Staff-Resources/master/Parent%20Ticket%20List.md');
 			var dbArrayOriginal = dbStringOriginal.split('\n');
 			var db = [];
+
+			var title1 = undefined;
+			var title2 = undefined;
+			var title3 = undefined;
+			var title4 = undefined;
+			var title5 = undefined;
+
 			for (var i = 0; i < dbArrayOriginal.length; i++) {
 				var item = dbArrayOriginal[i];
 
@@ -44,8 +51,17 @@
 
 					object["key"] = matches[1];
 					object["description"] = matches[3];
+					object["title1"] = title1;
+					object["title2"] = title2;
+					object["title3"] = title3;
+					object["title4"] = title4;
+					object["title5"] = title5;
 
 					db.push(object)
+				} else if (item[0] == '#') {
+					if (item[1] == ' ') {
+						title1 = 
+					}
 				}
 			}
 			return db;
