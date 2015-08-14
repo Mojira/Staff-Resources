@@ -354,8 +354,10 @@ Click [here](https://github.com/Mojira/Staff-Resources/blob/master/Parent%20Tick
 - [MC-4923](https://bugs.mojang.com/browse/MC-4923) Flint and Steel+Blocks that can't be set on fire
 - [MC-57933](https://bugs.mojang.com/browse/MC-57933) Comparator stays on after running (WAI)
 - [MC-4449](https://bugs.mojang.com/browse/MC-4449) Bedrock in repeater (WAI)
-- [MC-594](https://bugs.mojang.com/browse/MC-594) command + q (cmd + q, cmd+q) quits on mac
+- [MC-594](https://bugs.mojang.com/browse/MC-594) command + q (cmd + q, cmd+q) doesn't quit on mac
+- [MC-80476](https://bugs.mojang.com/browse/MC-80476) command + q (cmd + q, cmd+q) quits on mac
 - [MC-22882](https://bugs.mojang.com/browse/MC-22882) control+q (cntrl+q, control + q) doesn’t work
+- 
 
 ## Editing this document
 
