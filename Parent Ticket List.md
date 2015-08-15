@@ -10,6 +10,10 @@ Click [here](https://github.com/Mojira/Staff-Resources/blob/master/Parent%20Tick
 - [MC-86151](https://bugs.mojang.com/browse/MC-86151) shields in head slot
 - [MC-86168](https://bugs.mojang.com/browse/MC-86168) enchanted shields
 
+#### Crashes
+- [MC-86137](https://bugs.mojang.com/browse/MC-86137) breaking heads, etc.
+- [MC-86138](https://bugs.mojang.com/browse/MC-86138) pick block on heads, etc.
+
 
 ## 15w31c
 
