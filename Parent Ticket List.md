@@ -1,5 +1,10 @@
 Click [here](https://github.com/Mojira/Staff-Resources/blob/master/Parent%20Ticket%20List.md#editing-this-document) for editing instructions
 
+## 15w35b
+
+- [MC-87196](https://bugs.mojang.com/browse/MC-87196) invisible doors
+- [MC-87194](https://bugs.mojang.com/browse/MC-87194) invisible stairs
+
 ## 15w33c
 
 #### Shields
