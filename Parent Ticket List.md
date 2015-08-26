@@ -7,6 +7,8 @@ Click [here](https://github.com/Mojira/Staff-Resources/blob/master/Parent%20Tick
 
 ## 15w33c
 
+- [MC-86142](https://bugs.mojang.com/browse/MC-86142) Spawn eggs don't spawn baby mob when used on adult
+
 #### Shields
 
 - [MC-86130](https://bugs.mojang.com/browse/MC-86130) shield durability and colors
