@@ -8,6 +8,7 @@ Click [here](https://github.com/Mojira/Staff-Resources/blob/master/Parent%20Tick
 ## 15w33c
 
 - [MC-86142](https://bugs.mojang.com/browse/MC-86142) Spawn eggs don't spawn baby mob when used on adult
+- [MC-86282](https://bugs.mojang.com/browse/MC-86282) Spawn eggs no longer use damage / data value
 
 #### Shields
 
