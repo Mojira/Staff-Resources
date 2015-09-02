@@ -6,6 +6,7 @@ Click [here](https://github.com/Mojira/Staff-Resources/blob/master/Parent%20Tick
 - [MC-87872](https://bugs.mojang.com/browse/MC-87872) Command blocks can't be opened after death and respawn
 - [MC-87877](https://bugs.mojang.com/browse/MC-87877) Command block break particles don't appear after death and respawn
 - [MC-87878](https://bugs.mojang.com/browse/MC-87878) Invisible floor for players under the end
+- [MC-39583](https://bugs.mojang.com/browse/MC-39583) Server list clearing
 
 ## 15w35b
 
