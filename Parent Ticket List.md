@@ -1,5 +1,11 @@
 Click [here](https://github.com/Mojira/Staff-Resources/blob/master/Parent%20Ticket%20List.md#editing-this-document) for editing instructions
 
+## 15w36a/b
+
+- [MC-87871](https://bugs.mojang.com/browse/MC-87871) Iron golems attack friendlies
+- [MC-87872](https://bugs.mojang.com/browse/MC-87872) Command blocks can't be opened after death and respawn
+- [MC-87877](https://bugs.mojang.com/browse/MC-87877) Command block break particles don't appear after death and respawn
+
 ## 15w35b
 
 - [MC-87196](https://bugs.mojang.com/browse/MC-87196) invisible doors
