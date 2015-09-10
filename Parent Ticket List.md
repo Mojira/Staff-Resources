@@ -1,5 +1,11 @@
 Click [here](https://github.com/Mojira/Staff-Resources/blob/master/Parent%20Ticket%20List.md#editing-this-document) for editing instructions
 
+## 15w37a
+
+- [MC-88356](https://bugs.mojang.com/browse/MC-88356) Bow animation in offhand
+- [MC-88357](https://bugs.mojang.com/browse/MC-88357) Crash when outside of world height with F3
+
+
 ## 15w36a/b/c
 
 - [MC-87871](https://bugs.mojang.com/browse/MC-87871) Iron golems attack friendlies
