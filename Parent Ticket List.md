@@ -2,6 +2,10 @@ Click [here](https://github.com/Mojira/Staff-Resources/blob/master/Parent%20Tick
 
 ## 15w37a
 
+- [MC-88847](https://bugs.mojang.com/browse/MC-88847) Upside down stairs are broken
+
+## 15w37a
+
 - [MC-88356](https://bugs.mojang.com/browse/MC-88356) Bow animation in offhand
 - [MC-88357](https://bugs.mojang.com/browse/MC-88357) Crash when outside of world height with F3
 
