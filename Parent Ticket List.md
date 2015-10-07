@@ -9,6 +9,7 @@ Click [here](https://github.com/Mojira/Staff-Resources/blob/master/Parent%20Tick
 - [MC-89923](https://bugs.mojang.com/browse/MC-89923) ghost mobs from spawner tries
 - [MC-89926](https://bugs.mojang.com/browse/MC-89926) replaceitem doesn't allow elytra on chest
 - [MC-89928](https://bugs.mojang.com/browse/MC-89928) portals broken in SMP
+- [MC-89924](https://bugs.mojang.com/browse/MC-89924) Horse AI is broken
 
 ## 15w38a
 
