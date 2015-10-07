@@ -1,5 +1,15 @@
 Click [here](https://github.com/Mojira/Staff-Resources/blob/master/Parent%20Ticket%20List.md#editing-this-document) for editing instructions
 
+## 15w41b
+
+- [MC-89915](https://bugs.mojang.com/browse/MC-89915) no chunks load while in boat
+- [MC-89917](https://bugs.mojang.com/browse/MC-89917) pick block on boats
+- [MC-89920](https://bugs.mojang.com/browse/MC-89920) Ocelot AI is broken
+- [MC-89921](https://bugs.mojang.com/browse/MC-89921) wings on mobs/armor stand
+- [MC-89923](https://bugs.mojang.com/browse/MC-89923) ghost mobs from spawner tries
+- [MC-89926](https://bugs.mojang.com/browse/MC-89926) replaceitem doesn't allow elytra on chest
+- [MC-89928](https://bugs.mojang.com/browse/MC-89928) portals broken in SMP
+
 ## 15w38a
 
 - [MC-88847](https://bugs.mojang.com/browse/MC-88847) Upside down stairs are broken
