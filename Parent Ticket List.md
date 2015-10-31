@@ -398,6 +398,8 @@ Click [here](https://github.com/Mojira/Staff-Resources/blob/master/Parent%20Tick
 - [MC-594](https://bugs.mojang.com/browse/MC-594) command + q (cmd + q, cmd+q) doesn't quit on mac
 - [MC-80476](https://bugs.mojang.com/browse/MC-80476) command + q (cmd + q, cmd+q) quits on mac
 - [MC-22882](https://bugs.mojang.com/browse/MC-22882) control+q (cntrl+q, control + q) doesn’t work
+- [MC-32813](https://bugs.mojang.com/browse/MC-22882) bad water/lava from worldgen
+
 
 ## Editing this document
 
