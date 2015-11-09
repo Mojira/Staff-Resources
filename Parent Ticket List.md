@@ -399,7 +399,7 @@ Click [here](https://github.com/Mojira/Staff-Resources/blob/master/Parent%20Tick
 - [MC-80476](https://bugs.mojang.com/browse/MC-80476) command + q (cmd + q, cmd+q) quits on mac
 - [MC-22882](https://bugs.mojang.com/browse/MC-22882) control+q (cntrl+q, control + q) doesn’t work
 - [MC-32813](https://bugs.mojang.com/browse/MC-22882) bad water/lava from worldgen
-
+- [MC-3923](https://bugs.mojang.com/browse/MC-3923) Fences mob ai don’t interact well spinning mobs
 
 ## Editing this document
 
