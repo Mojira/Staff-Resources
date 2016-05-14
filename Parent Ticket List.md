@@ -1,5 +1,9 @@
 Click [here](https://github.com/Mojira/Staff-Resources/blob/master/Parent%20Ticket%20List.md#editing-this-document) for editing instructions
 
+## 1.9
+
+- [MC-89030](https://bugs.mojang.com/browse/MC-89030) Pistons warp
+
 ## 15w41b
 
 - [MC-89915](https://bugs.mojang.com/browse/MC-89915) no chunks load while in boat
