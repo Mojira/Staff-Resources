@@ -1,5 +1,12 @@
 Click [here](https://github.com/Mojira/Staff-Resources/blob/master/Parent%20Ticket%20List.md#editing-this-document) for editing instructions
 
+## 16w20a
+
+- [MC-102052](https://bugs.mojang.com/browse/MC-102052) Structure Block Save Location / Save Issues
+- [MC-102085](https://bugs.mojang.com/browse/MC-102085) polar bear stuck standing
+- [MC-102040](https://bugs.mojang.com/browse/MC-102040) Magma sneaking no damage
+- [MC-102043](https://bugs.mojang.com/browse/MC-102043) auto jump snow layers
+
 ## 1.9
 
 - [MC-89030](https://bugs.mojang.com/browse/MC-89030) Pistons warp
@@ -332,7 +339,7 @@ Click [here](https://github.com/Mojira/Staff-Resources/blob/master/Parent%20Tick
 - [MC-56982](https://bugs.mojang.com/browse/MC-56982) Rendering bug with pistons
 - [MC-56984](https://bugs.mojang.com/browse/MC-56984) Floating Items Dropped on floor
 - [MC-56990](https://bugs.mojang.com/browse/MC-56990) Chiselled quartz block turns into regular quartz
-- [MC-57020](https://bugs.mojang.com/browse/MC-57020) Burning furnaces change orientation 
+- [MC-57020](https://bugs.mojang.com/browse/MC-57020) Burning furnaces change orientation
 - [MC-57023](https://bugs.mojang.com/browse/MC-57023) wrong animation while breaking blocks in survival
 - [MC-57041](https://bugs.mojang.com/browse/MC-57041) Missing Barrier Texture
 - [MC-57045](https://bugs.mojang.com/browse/MC-57045) Comparators appear as powered when put into subtraction mode.
@@ -379,7 +386,7 @@ Click [here](https://github.com/Mojira/Staff-Resources/blob/master/Parent%20Tick
 ## Earlier Versions / Unknown
 
 - [MC-297](https://bugs.mojang.com/browse/MC-297) Bad Video Card Drivers			
-- [MC-438](https://bugs.mojang.com/browse/MC-438) Enderpearls don't work in creative	
+- [MC-438](https://bugs.mojang.com/browse/MC-438) Enderpearls don't work in creative
 - [MC-545](https://bugs.mojang.com/browse/MC-545) Sheep invisibility			
 - [MC-4061](https://bugs.mojang.com/browse/MC-4061) Ocelots in Jungles Spawn rates
 - [MC-5157](https://bugs.mojang.com/browse/MC-5157) Can't place slabs of different types onto each other
@@ -388,7 +395,7 @@ Click [here](https://github.com/Mojira/Staff-Resources/blob/master/Parent%20Tick
 - [MC-13823](https://bugs.mojang.com/browse/MC-13823) Leads incorrectly placed on ocelots and wolves
 - [MC-17840](https://bugs.mojang.com/browse/MC-17840) Language Files with Resource Packs 	
 - [MC-18368](https://bugs.mojang.com/browse/MC-18368) Swords not working in creative		
-- [MC-19082](https://bugs.mojang.com/browse/MC-19082) Signs placed on fences don't have text	
+- [MC-19082](https://bugs.mojang.com/browse/MC-19082) Signs placed on fences don't have text
 - [MC-20163](https://bugs.mojang.com/browse/MC-20163) Chatting / Joining Modded Servers
 - [MC-22927](https://bugs.mojang.com/browse/MC-22927) Animals Run Forever
 - [MC-1797](https://bugs.mojang.com/browse/MC-1797) Creative Inventory Sort Acacia Dark Oak New Logs Blocks
