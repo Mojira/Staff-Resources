@@ -6,6 +6,7 @@ Click [here](https://github.com/Mojira/Staff-Resources/blob/master/Parent%20Tick
 - [MC-102085](https://bugs.mojang.com/browse/MC-102085) polar bear stuck standing
 - [MC-102040](https://bugs.mojang.com/browse/MC-102040) Magma sneaking no damage
 - [MC-102043](https://bugs.mojang.com/browse/MC-102043) auto jump snow layers
+- [MC-102046](https://bugs.mojang.com/browse/MC-102046) /summon WitherSkeleton etc. aliases don't work with summon
 
 ## 1.9
 
