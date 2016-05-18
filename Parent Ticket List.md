@@ -7,6 +7,7 @@ Click [here](https://github.com/Mojira/Staff-Resources/blob/master/Parent%20Tick
 - [MC-102040](https://bugs.mojang.com/browse/MC-102040) Magma sneaking no damage
 - [MC-102043](https://bugs.mojang.com/browse/MC-102043) auto jump snow layers
 - [MC-102046](https://bugs.mojang.com/browse/MC-102046) /summon WitherSkeleton etc. aliases don't work with summon
+- [MC-102047](https://bugs.mojang.com/browse/MC-102047) pick block on mob variants
 
 ## 1.9
 
