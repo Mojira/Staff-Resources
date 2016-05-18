@@ -8,6 +8,17 @@ Click [here](https://github.com/Mojira/Staff-Resources/blob/master/Parent%20Tick
 - [MC-102043](https://bugs.mojang.com/browse/MC-102043) auto jump snow layers
 - [MC-102046](https://bugs.mojang.com/browse/MC-102046) /summon WitherSkeleton etc. aliases don't work with summon
 - [MC-102047](https://bugs.mojang.com/browse/MC-102047) pick block on mob variants
+- [MC-102048](https://bugs.mojang.com/browse/MC-102048) blocks below sand show particles
+- [MC-102049](https://bugs.mojang.com/browse/MC-102049) witches on magma
+- [MC-102050](https://bugs.mojang.com/browse/MC-102050) horse spawn egg names
+- [MC-102069](https://bugs.mojang.com/browse/MC-102069) bone block is transparent
+- [MC-102051](https://bugs.mojang.com/browse/MC-102051) unable to place stuff on bone block nether wart block
+- [MC-102059](https://bugs.mojang.com/browse/MC-102059) skeleton spawn egg in nether spawns wither
+- [MC-102070](https://bugs.mojang.com/browse/MC-102070) nether wart fire
+- [MC-102103](https://bugs.mojang.com/browse/MC-102103) savanna black smith burns down
+- [MC-102135](https://bugs.mojang.com/browse/MC-102135) structure block empty names
+- [MC-102134](https://bugs.mojang.com/browse/MC-102134) structure block name goes away changing page
+- [MC-102146](https://bugs.mojang.com/browse/MC-102146) structure blocks : /
 
 ## 1.9
 
