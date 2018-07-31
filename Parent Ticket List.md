@@ -427,6 +427,32 @@ Click [here](https://github.com/Mojira/Staff-Resources/blob/master/Parent%20Tick
 - [MC-20440](https://bugs.mojang.com/browse/MC-20440) Accents on Mac (unable to type, pasting works)
 - [MC-87364](https://bugs.mojang.com/browse/MC-87364) commands.scoreboard.players.tag.tagError
 
+## Launcher
+
+- [MCL-1394](https://bugs.mojang.com/browse/MCL-1394) Custom Directory not used when using old game versions			
+- [MCL-1421](https://bugs.mojang.com/browse/MCL-1421) Custom Directory not used when using old game versions
+- [MCL-2991](https://bugs.mojang.com/browse/MCL-2991) Old versions use new or no sounds
+- [MCL-3983](https://bugs.mojang.com/browse/MCL-3983) nativelog.txt appears on Desktop
+- [MCL-4934](https://bugs.mojang.com/browse/MCL-4934) Launcher forgets login token when switching Wi-Fi networks
+- [MCL-5290](https://bugs.mojang.com/browse/MCL-5290) Launcher does not have a minimum Window size
+- [MCL-5367](https://bugs.mojang.com/browse/MCL-5367) "Unable to save download" - "The process cannot access the file because it is being used by another process" (caused by Antivirus software)
+- [MCL-5511](https://bugs.mojang.com/browse/MCL-5511) Launcher stays white after launch
+- [MCL-5523](https://bugs.mojang.com/browse/MCL-5523) OSX: "Minecraft quit unexpectedly" on launcher startup
+- [MCL-5546](https://bugs.mojang.com/browse/MCL-5546) Unable to save download <lang file> or <.xml file> or <.json file> or <.ogg file> (caused by ByteFence)
+- [MCL-5638](https://bugs.mojang.com/browse/MCL-5638) Unable to locate the Java runtime
+- [MCL-5646](https://bugs.mojang.com/browse/MCL-5646) Launcher stays on "Preparing..." after pressing "Play"
+- [MCL-5830](https://bugs.mojang.com/browse/MCL-5830) New game output incompatible with some mods & older versions
+- [MCL-6157](https://bugs.mojang.com/browse/MCL-6157) Game output stays open when the launcher is closed
+- [MCL-6280](https://bugs.mojang.com/browse/MCL-6280) No sound in older versions on native launcher, despite working in the Java launcher
+- [MCL-6544](https://bugs.mojang.com/browse/MCL-6544) Launcher opens up on nonexistent monitor
+- [MCL-6550](https://bugs.mojang.com/browse/MCL-6550) Discord/Java stopped responding/exit codes after pressing play
+- [MCL-6859](https://bugs.mojang.com/browse/MCL-6859) Unable to launch Minecraft on macOS (Request error -101)
+- [MCL-7152](https://bugs.mojang.com/browse/MCL-7152) Can't play offline with new (2.0) launcher
+- [MCL-7919](https://bugs.mojang.com/browse/MCL-7919) Launcher is display negative total size of files remaining
+- [MCL-9685](https://bugs.mojang.com/browse/MCL-9685) Download server for resources (<MC 1.5.2) returns 403 response code (s3.amazonaws.com/MinecraftResources)
+- [MCL-9775](https://bugs.mojang.com/browse/MCL-9775) Server JAR download options missing for version before 1.2.5
+
+
 ## Editing this document
 
 When you want to edit this document on Github, you should follow a few simple steps:
